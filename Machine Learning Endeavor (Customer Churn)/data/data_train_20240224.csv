@@ -1,0 +1,4051 @@
+Attrition_Flag,Customer_Age,Dependent_count,Months_Inactive_12_mon,Total_Trans_Amt,Education_Level
+0,60,1,2,4183,High School
+0,48,4,1,3843,Graduate
+1,40,3,2,781,Graduate
+0,34,1,6,4314,Graduate
+0,32,1,2,2439,High School
+0,50,1,2,4006,Uneducated
+1,49,1,3,9524,Graduate
+0,60,1,5,14954,High School
+0,47,3,1,3912,Graduate
+0,37,2,1,3462,Unknown
+0,37,2,3,2298,Graduate
+0,64,0,2,1439,Doctorate
+0,41,3,3,4410,High School
+0,53,2,2,5070,Graduate
+1,26,0,2,947,Uneducated
+0,48,4,3,4751,Uneducated
+0,47,2,2,4892,High School
+0,34,1,1,4159,Graduate
+0,36,1,1,3030,Uneducated
+0,45,3,6,4878,Doctorate
+0,39,3,3,3955,Uneducated
+0,50,1,2,1298,Graduate
+0,41,3,1,13209,High School
+0,44,3,1,4400,Unknown
+0,38,2,2,3990,High School
+0,56,2,3,13945,High School
+0,37,2,3,2735,Uneducated
+0,36,3,2,2511,Graduate
+1,63,1,4,2083,Graduate
+0,52,1,1,4697,Graduate
+0,48,4,1,3291,Graduate
+0,43,3,3,4424,Post-Graduate
+0,55,3,2,2354,Unknown
+0,36,2,1,4644,Uneducated
+0,42,4,2,3574,High School
+0,49,4,2,4792,Unknown
+0,38,3,1,2234,Unknown
+0,50,3,2,2909,College
+1,44,3,3,2223,Graduate
+0,41,2,3,7685,Graduate
+0,34,1,1,4110,Uneducated
+0,43,2,3,4874,Graduate
+0,43,4,1,1400,Uneducated
+1,39,3,3,2476,College
+0,55,1,1,4291,Unknown
+0,57,3,1,5405,College
+0,51,0,2,3722,High School
+0,46,2,1,3749,Unknown
+1,49,3,3,2239,Graduate
+0,46,4,2,4384,Unknown
+0,49,3,2,4345,Unknown
+0,42,2,1,4496,Graduate
+0,43,1,2,1229,High School
+0,41,4,1,15033,Unknown
+0,38,4,1,1445,High School
+0,28,1,3,14054,Post-Graduate
+0,65,1,2,1463,Graduate
+0,32,0,3,3975,College
+0,51,2,3,1678,Graduate
+0,59,0,2,1335,High School
+1,53,2,3,2836,College
+1,61,1,1,4041,Graduate
+0,56,3,3,1373,High School
+0,49,2,2,4253,High School
+0,49,2,1,1803,Post-Graduate
+0,46,3,3,3967,Unknown
+0,44,1,3,4268,Graduate
+0,46,1,3,4858,High School
+0,38,0,4,2143,Graduate
+0,48,1,3,5006,College
+0,55,1,3,4528,Graduate
+0,32,0,3,2657,Graduate
+0,48,2,2,4240,High School
+0,50,1,2,8503,Graduate
+0,56,1,4,5285,Graduate
+0,55,2,3,1421,High School
+0,48,5,3,4407,Graduate
+0,40,2,4,3879,High School
+0,50,3,3,2004,Graduate
+0,45,3,2,4542,Uneducated
+1,48,4,3,2132,Unknown
+0,50,2,2,15476,Graduate
+0,41,2,2,3533,High School
+0,45,2,3,4437,Doctorate
+0,41,3,1,4086,High School
+0,47,3,2,8526,Graduate
+0,37,2,1,4490,Unknown
+1,34,3,2,2703,High School
+0,48,2,3,3850,High School
+0,45,3,3,8113,Graduate
+0,43,2,2,4262,Graduate
+0,49,3,2,3748,Unknown
+1,59,0,4,687,High School
+0,50,0,2,4651,Uneducated
+0,49,4,2,17350,Post-Graduate
+1,55,3,5,8918,Uneducated
+0,47,4,2,1747,Uneducated
+0,62,1,1,3975,Unknown
+0,36,2,2,2576,Post-Graduate
+0,54,3,2,1881,Doctorate
+0,43,2,1,4476,High School
+0,55,2,2,2058,Post-Graduate
+1,37,2,3,2729,Graduate
+0,52,1,3,4598,College
+0,55,2,2,5175,Unknown
+0,34,1,1,5293,High School
+0,39,5,2,5205,Graduate
+0,37,2,1,5032,Unknown
+0,51,4,2,14149,College
+0,38,0,3,16736,High School
+0,42,4,4,4220,Uneducated
+0,48,2,2,9105,Uneducated
+0,52,2,2,4737,College
+0,50,3,3,3862,Unknown
+0,48,3,1,1642,Unknown
+0,56,1,1,4723,Graduate
+0,50,3,3,4442,High School
+0,48,1,3,4117,Doctorate
+0,65,1,2,3432,Graduate
+0,43,3,1,1996,High School
+0,42,4,3,4493,Graduate
+1,39,2,2,4691,Graduate
+1,50,4,3,2281,Graduate
+1,53,4,3,1830,Uneducated
+0,55,1,3,2425,Unknown
+0,41,4,3,3769,Graduate
+0,45,3,2,4133,High School
+0,50,1,3,4916,College
+0,43,3,2,4430,Graduate
+1,43,5,2,2742,High School
+0,59,1,3,1068,Graduate
+0,53,3,3,1836,Graduate
+0,46,2,1,14567,Graduate
+0,50,2,3,4773,High School
+0,45,3,3,4293,Graduate
+0,53,3,2,4270,Doctorate
+0,44,5,1,4076,Doctorate
+0,52,3,2,4776,Doctorate
+1,37,3,1,8667,Graduate
+0,48,3,4,4220,Unknown
+0,36,1,1,2661,Uneducated
+1,58,1,3,1712,Graduate
+0,31,0,2,2726,High School
+1,61,0,4,3119,College
+0,40,3,3,4429,Unknown
+1,47,3,3,1887,Unknown
+0,31,2,2,15645,Graduate
+0,45,3,1,4129,High School
+0,29,1,3,14912,Uneducated
+1,39,3,2,2338,Unknown
+0,52,1,4,4812,Graduate
+0,41,2,5,4565,College
+1,57,1,3,8463,Post-Graduate
+0,56,2,1,1302,High School
+1,44,2,2,1848,Graduate
+0,39,3,3,1362,Graduate
+0,55,2,1,7855,Unknown
+0,43,2,1,4437,Uneducated
+0,48,5,1,3584,Unknown
+0,54,5,1,1114,Graduate
+0,42,3,1,3449,Uneducated
+0,55,2,1,4455,High School
+0,50,2,2,3974,Unknown
+0,42,3,2,4384,Unknown
+1,53,3,3,2312,High School
+0,47,3,1,4465,Graduate
+0,42,2,2,8657,Graduate
+0,47,4,3,5201,High School
+0,35,3,2,1792,Uneducated
+0,41,2,1,3978,Graduate
+0,34,1,3,2327,Graduate
+0,51,3,3,4281,High School
+0,50,4,1,1559,Unknown
+0,49,1,3,3941,Graduate
+1,41,2,2,2063,Graduate
+0,42,3,1,4452,Post-Graduate
+0,49,1,2,7693,High School
+0,45,2,3,3282,Graduate
+0,53,2,3,1380,Graduate
+0,40,3,2,4391,Unknown
+0,43,3,3,3391,High School
+0,45,3,2,7905,High School
+0,49,3,3,4765,College
+0,42,2,2,4437,Unknown
+0,37,3,2,1567,Graduate
+0,33,1,1,2273,Post-Graduate
+0,59,0,3,4576,Graduate
+0,45,3,5,4659,Graduate
+0,41,2,2,4077,College
+0,55,4,2,8765,Graduate
+0,38,2,3,1872,Post-Graduate
+1,60,0,4,8169,College
+0,47,4,3,3684,Unknown
+0,58,4,2,2950,Uneducated
+0,49,4,3,15872,High School
+0,50,3,1,14474,Graduate
+0,49,3,2,4372,Graduate
+0,32,1,3,13783,Graduate
+0,47,3,2,3929,Uneducated
+0,35,0,3,5211,Unknown
+0,57,2,3,5109,Graduate
+0,36,1,3,2454,Graduate
+0,44,2,3,4263,High School
+0,59,0,2,4319,Unknown
+0,31,0,2,3059,College
+0,52,2,3,4700,College
+0,49,4,1,7495,College
+0,55,0,3,4226,Unknown
+1,59,2,3,2462,Uneducated
+0,61,0,2,2073,Unknown
+0,50,3,3,8693,High School
+0,56,1,1,1205,Unknown
+0,40,3,1,4033,Uneducated
+0,31,0,2,4358,Graduate
+0,36,4,3,2056,Uneducated
+0,49,4,2,4408,High School
+0,34,1,1,2042,High School
+0,43,4,3,3639,Graduate
+0,39,1,1,4412,Graduate
+0,49,4,2,3585,Post-Graduate
+1,54,4,3,7667,Graduate
+0,48,1,3,4041,Graduate
+0,39,3,2,4342,Uneducated
+0,51,1,2,4505,Unknown
+0,45,3,2,14023,Graduate
+0,39,2,1,4544,Graduate
+0,52,2,3,1531,Graduate
+0,40,3,3,9523,Graduate
+0,65,2,3,4205,Doctorate
+0,43,3,2,4066,Graduate
+0,43,3,3,3161,High School
+1,45,5,4,2753,Unknown
+0,37,2,2,16606,Graduate
+0,50,2,2,4232,Graduate
+0,40,3,3,4332,High School
+0,58,1,2,4722,Post-Graduate
+1,37,3,3,694,College
+0,42,1,3,4511,Graduate
+0,35,0,2,2483,Doctorate
+0,52,1,1,4875,Doctorate
+0,28,0,1,17064,Uneducated
+0,52,1,2,4017,Uneducated
+1,50,1,2,1149,Unknown
+0,38,3,2,4593,Graduate
+0,38,2,3,5154,Graduate
+0,51,1,1,1976,Unknown
+0,54,2,2,1377,Graduate
+0,52,4,3,4643,College
+0,39,3,2,4121,Uneducated
+1,30,0,2,8642,College
+0,44,2,1,3144,Unknown
+0,51,3,3,4182,College
+0,47,2,6,7823,Graduate
+0,46,2,3,4821,Unknown
+0,42,3,1,4869,Uneducated
+0,46,2,3,4249,Graduate
+0,40,4,3,5196,Graduate
+0,49,3,3,4041,Uneducated
+0,36,1,2,4024,Doctorate
+0,49,5,2,2223,Graduate
+0,54,0,3,1503,Unknown
+0,39,2,3,2398,College
+1,32,1,2,7844,Graduate
+0,46,3,1,4444,College
+0,41,1,2,1734,Uneducated
+0,39,2,1,15467,High School
+0,41,4,1,3668,Graduate
+0,44,2,3,5357,High School
+1,60,0,1,2829,Unknown
+1,32,0,3,2479,Unknown
+0,39,1,2,2006,High School
+0,28,0,3,2744,High School
+0,50,4,1,15427,Graduate
+0,51,3,3,4609,Uneducated
+0,53,1,3,14074,Unknown
+0,45,3,3,4123,Graduate
+0,53,1,2,4116,Graduate
+0,44,4,1,3024,Graduate
+0,38,2,1,1388,Unknown
+0,38,1,3,5389,Uneducated
+0,35,1,3,2794,High School
+0,44,4,2,4247,Uneducated
+0,38,2,1,3812,College
+1,55,1,3,2954,Unknown
+1,50,2,2,1474,High School
+0,56,1,1,1608,Uneducated
+0,46,3,1,3215,Uneducated
+0,36,1,3,4636,High School
+0,42,4,1,1534,High School
+1,33,2,2,2077,Uneducated
+1,48,1,2,4890,Post-Graduate
+0,41,3,2,4666,Unknown
+0,43,3,2,14651,Doctorate
+0,43,1,1,7206,Graduate
+0,45,5,3,12896,High School
+0,55,0,1,4726,Uneducated
+0,53,2,2,7682,High School
+0,49,4,1,3552,High School
+0,48,2,3,4247,Post-Graduate
+1,39,3,2,644,Graduate
+1,41,2,3,2981,Graduate
+0,50,4,3,3291,Graduate
+1,39,2,3,2716,High School
+0,26,0,3,3625,College
+0,45,3,2,4535,Graduate
+0,47,5,1,4742,Unknown
+1,50,4,3,2616,High School
+0,49,2,1,7734,Graduate
+0,52,1,1,3332,Uneducated
+0,45,4,3,1485,High School
+0,48,3,1,4681,College
+0,45,4,1,5127,Graduate
+0,29,2,3,4702,Graduate
+0,46,4,3,3784,Doctorate
+0,43,3,2,1827,Uneducated
+0,52,2,3,4456,Graduate
+0,46,4,1,3914,Uneducated
+0,38,2,2,4467,High School
+1,46,2,3,2899,Unknown
+0,40,2,6,4497,Unknown
+0,26,0,1,2272,Unknown
+0,57,0,6,1343,Graduate
+0,48,2,2,1234,College
+0,42,3,3,4160,High School
+0,47,2,3,7432,Uneducated
+0,48,3,1,1289,High School
+0,41,3,1,14615,Doctorate
+0,44,3,2,3495,Post-Graduate
+1,39,2,3,1674,Doctorate
+0,44,5,2,4396,High School
+0,43,2,2,3492,Unknown
+0,36,2,2,4861,Graduate
+1,44,3,2,1754,Unknown
+1,52,1,3,2650,Graduate
+0,41,3,1,1051,Graduate
+0,52,1,1,1852,Uneducated
+0,26,0,2,2349,College
+0,49,3,2,3213,High School
+0,54,1,6,4196,Doctorate
+1,43,2,3,4805,Unknown
+0,36,0,3,2614,College
+0,47,2,3,15473,Post-Graduate
+1,44,2,2,4847,Doctorate
+0,38,1,1,3691,Post-Graduate
+0,40,3,1,3193,Graduate
+0,47,3,3,4360,Graduate
+0,53,1,2,1419,High School
+0,35,4,1,2946,Uneducated
+0,37,3,1,3305,Doctorate
+1,40,4,2,2137,Unknown
+0,30,0,2,5247,Graduate
+0,59,0,2,4797,Unknown
+0,49,3,1,5095,Graduate
+1,53,1,3,2016,Graduate
+0,47,4,2,1100,College
+1,49,2,3,2394,Graduate
+0,48,3,2,5372,Graduate
+0,44,3,1,1264,College
+0,44,2,3,4503,High School
+0,46,2,3,8256,College
+0,43,3,3,4853,Unknown
+0,54,1,2,12592,High School
+0,50,2,3,4851,Graduate
+0,51,1,4,4241,High School
+0,51,5,1,1679,Post-Graduate
+1,53,3,2,2562,College
+0,54,3,1,1935,High School
+0,40,2,3,5115,Unknown
+1,43,5,3,2134,Graduate
+0,52,2,2,3595,High School
+0,44,1,3,4509,Unknown
+1,61,0,3,2860,Graduate
+1,41,1,3,4399,High School
+0,43,3,1,3785,Graduate
+1,55,3,3,6009,Uneducated
+0,48,3,3,2027,College
+0,55,2,3,4271,Graduate
+0,45,3,3,4327,Uneducated
+1,54,3,4,2189,Post-Graduate
+0,46,3,1,1264,Graduate
+0,42,3,1,3934,College
+0,39,2,3,1241,Uneducated
+0,44,3,1,5169,Doctorate
+1,39,4,2,2392,Graduate
+1,46,0,3,8526,College
+0,58,2,1,3790,Unknown
+0,37,1,3,2660,Doctorate
+0,37,2,2,2761,High School
+0,42,3,3,3148,High School
+0,55,2,2,4277,Unknown
+0,41,4,1,1589,Graduate
+0,49,2,2,4926,College
+0,43,4,1,7801,High School
+1,52,2,3,7886,College
+1,65,0,4,2291,College
+0,45,2,1,8328,Graduate
+1,57,2,3,1882,Graduate
+0,37,2,3,2344,High School
+0,62,0,2,3066,Uneducated
+0,45,2,3,2031,College
+0,43,5,1,4743,Graduate
+0,43,3,2,15740,Uneducated
+1,62,1,5,1739,High School
+0,52,4,2,5100,Uneducated
+0,34,2,2,4551,High School
+0,46,5,2,7936,Doctorate
+0,41,3,3,7996,High School
+1,43,4,3,2397,College
+0,50,2,1,4220,Uneducated
+0,46,3,1,3819,Graduate
+0,49,1,3,4277,Graduate
+1,49,5,3,1866,Uneducated
+1,36,1,3,2383,Uneducated
+0,50,3,1,3687,High School
+1,40,3,3,2106,High School
+0,34,3,3,2646,Uneducated
+1,60,1,5,2251,High School
+0,49,1,1,1002,Unknown
+0,57,2,1,1244,Post-Graduate
+0,65,0,3,4070,Unknown
+0,56,0,3,14713,Graduate
+0,52,2,1,4725,College
+0,40,3,2,3734,Graduate
+1,48,4,3,1771,Unknown
+0,53,4,3,7919,High School
+0,49,3,3,4316,High School
+0,51,3,1,16557,Unknown
+0,46,0,2,4619,Graduate
+0,44,3,1,1571,College
+1,43,4,3,2371,Uneducated
+1,50,2,3,2297,Unknown
+0,41,2,2,3216,Uneducated
+0,38,2,1,1886,Graduate
+0,44,4,2,7674,High School
+1,48,3,2,5189,High School
+1,55,2,3,7026,Graduate
+0,35,1,2,4237,High School
+0,39,2,1,3964,Graduate
+0,33,2,2,2677,High School
+0,49,1,3,4770,College
+0,38,2,1,2447,Unknown
+0,44,1,2,1701,Doctorate
+0,52,2,3,4551,Uneducated
+0,48,4,4,3577,Graduate
+0,40,5,1,1471,Unknown
+0,55,3,2,4873,High School
+0,46,2,3,3972,Doctorate
+0,40,2,2,4003,Graduate
+0,60,0,1,4950,Doctorate
+0,46,4,2,1278,Graduate
+0,47,4,3,4422,Graduate
+0,36,3,3,1897,Unknown
+0,40,3,5,8097,Uneducated
+0,44,3,3,15367,Graduate
+0,49,4,6,3830,Graduate
+0,30,1,3,1560,Graduate
+0,47,2,3,13090,Uneducated
+0,41,2,3,5089,Graduate
+0,37,2,3,4983,Graduate
+0,50,1,1,4099,Unknown
+0,53,3,5,4722,Uneducated
+0,43,4,2,1987,High School
+0,47,4,1,3858,Graduate
+0,34,1,2,12575,Unknown
+0,38,2,3,1592,Uneducated
+0,65,1,2,1793,Graduate
+1,45,2,4,1041,College
+0,52,2,3,4040,College
+1,41,3,2,2003,Unknown
+0,31,2,2,2221,Graduate
+1,39,2,3,809,Uneducated
+1,45,2,3,2469,Graduate
+1,41,3,2,2077,High School
+1,50,1,3,10310,Unknown
+0,47,2,2,4421,Graduate
+1,52,2,2,2538,Doctorate
+0,45,4,3,2333,College
+0,54,2,1,1454,High School
+0,54,2,1,5177,Uneducated
+0,42,4,1,1629,Graduate
+0,42,4,2,3786,High School
+1,59,0,3,1992,Graduate
+0,42,5,4,4004,High School
+0,27,0,2,5146,Graduate
+0,45,4,1,4194,High School
+0,46,3,2,7689,High School
+0,42,2,3,12920,Graduate
+0,40,2,1,3622,Graduate
+0,52,2,1,6993,Graduate
+0,49,4,2,4851,Graduate
+0,39,1,2,5001,Graduate
+0,56,1,1,1839,High School
+0,50,2,1,5298,Graduate
+0,32,0,3,1731,College
+1,35,3,3,2137,Doctorate
+0,55,2,2,1865,Post-Graduate
+0,42,3,2,1794,Graduate
+0,45,5,3,5311,Graduate
+0,38,2,1,5178,Graduate
+0,42,1,1,4897,College
+0,40,2,1,4064,College
+0,27,1,3,3563,College
+0,45,5,2,5346,Unknown
+0,46,2,1,4486,College
+0,43,1,3,3861,Graduate
+0,55,1,1,16089,Graduate
+0,39,4,2,4211,Graduate
+0,40,4,3,1596,Graduate
+1,43,3,2,2439,Graduate
+0,42,2,2,4012,Post-Graduate
+0,38,2,3,4614,Unknown
+0,51,3,1,4317,Graduate
+1,52,1,5,2253,Graduate
+0,46,3,3,3535,High School
+0,58,1,3,14678,Unknown
+0,39,2,2,3667,Uneducated
+0,43,1,3,933,College
+0,54,2,3,4981,High School
+0,45,2,4,4099,Unknown
+1,50,2,2,1764,Unknown
+0,46,3,1,3962,Graduate
+0,32,2,3,4549,Post-Graduate
+1,51,2,2,2021,Doctorate
+0,60,0,3,16328,Graduate
+0,45,5,4,4296,Uneducated
+0,46,5,3,4198,High School
+0,34,2,1,2555,Graduate
+0,52,1,3,4661,Graduate
+0,37,0,3,2400,Post-Graduate
+0,38,2,1,4690,Post-Graduate
+1,40,4,3,1758,High School
+0,28,0,4,4252,Unknown
+1,49,3,0,1885,Post-Graduate
+0,49,4,3,14261,Unknown
+0,40,3,1,3432,High School
+0,49,4,5,1721,Graduate
+0,38,2,1,1858,Uneducated
+0,38,1,3,1665,College
+1,52,3,2,1821,Graduate
+1,57,0,3,2477,Graduate
+0,44,3,2,4149,High School
+0,47,2,2,13270,Unknown
+0,45,3,2,8029,High School
+0,43,3,3,13179,Graduate
+0,36,3,1,2683,High School
+1,48,2,2,2532,Graduate
+0,42,4,1,13505,Graduate
+0,32,0,3,14950,College
+0,44,4,2,14991,Graduate
+0,47,1,3,1270,Graduate
+1,40,3,3,2249,Doctorate
+0,34,3,6,2251,College
+0,52,1,3,4501,High School
+0,38,3,3,4042,Graduate
+0,42,3,5,2086,Uneducated
+0,52,1,1,8226,Graduate
+0,50,1,2,3769,Graduate
+0,44,4,3,4779,Graduate
+0,52,1,1,2848,Unknown
+0,49,2,2,14276,Unknown
+0,59,1,3,1809,Graduate
+0,28,0,1,1813,Post-Graduate
+0,56,2,3,5110,Graduate
+0,37,3,2,1641,High School
+1,46,4,3,2798,Graduate
+1,42,1,3,2152,Uneducated
+0,56,4,1,4284,Uneducated
+0,59,1,2,4699,High School
+0,52,2,1,5495,High School
+0,43,5,5,4278,Unknown
+1,51,3,3,1853,College
+0,53,1,1,4940,Graduate
+0,34,2,1,3161,High School
+0,48,4,2,1725,Graduate
+0,47,3,3,12779,Uneducated
+0,45,5,3,4888,Post-Graduate
+0,65,0,2,2121,High School
+0,34,2,1,4530,Graduate
+0,40,3,6,4290,Unknown
+0,46,2,3,3687,High School
+1,44,5,3,2132,Graduate
+0,66,0,4,1946,High School
+0,43,1,3,5100,Unknown
+0,52,3,4,4417,Graduate
+0,43,3,5,7279,Graduate
+0,43,4,3,1285,Graduate
+0,46,2,3,3457,Graduate
+0,37,2,3,1744,Doctorate
+1,58,0,1,992,Unknown
+0,57,1,1,14651,Graduate
+0,38,2,1,13041,Graduate
+0,45,3,1,4730,High School
+0,43,4,3,3553,Unknown
+0,47,3,2,4656,College
+0,42,4,2,4674,High School
+0,47,2,2,2572,Unknown
+0,56,2,3,13222,Unknown
+0,38,3,4,13781,High School
+0,40,2,2,3146,Doctorate
+0,47,4,1,1581,Uneducated
+0,49,4,1,4783,Graduate
+0,30,0,1,5568,Unknown
+0,51,1,2,3323,College
+0,45,3,1,3174,Graduate
+0,49,3,2,4098,Graduate
+1,51,1,3,5524,High School
+0,42,3,1,7613,Unknown
+1,40,2,2,1993,Unknown
+0,47,3,4,4028,Graduate
+0,45,3,3,3914,Doctorate
+0,46,4,2,1582,Graduate
+0,57,3,2,1806,Doctorate
+0,49,3,3,4084,High School
+0,37,1,3,2774,Graduate
+0,39,3,3,4347,Graduate
+0,48,3,1,4445,Post-Graduate
+0,50,2,3,4583,Unknown
+0,35,2,1,1745,Uneducated
+1,32,0,1,8363,Post-Graduate
+0,60,1,5,4555,Graduate
+0,37,2,1,2909,Unknown
+0,50,2,1,3739,College
+1,43,3,2,2646,Graduate
+0,55,3,3,4564,College
+0,53,1,3,1564,Graduate
+0,46,3,1,7750,Uneducated
+1,42,2,2,2092,Uneducated
+0,58,2,2,4983,High School
+0,49,3,2,1330,Uneducated
+0,49,3,3,4205,Uneducated
+0,59,2,3,1469,High School
+0,43,3,2,14511,Unknown
+0,58,2,3,1574,Graduate
+0,54,3,1,4767,Graduate
+0,31,0,3,2670,Graduate
+0,46,3,2,13119,Doctorate
+0,54,2,1,4844,Post-Graduate
+0,60,0,1,1226,College
+0,60,0,2,3527,Unknown
+1,48,4,3,2045,Unknown
+0,40,2,2,4505,Graduate
+0,44,4,2,4363,Graduate
+0,29,1,3,1800,Graduate
+1,45,3,3,2466,Uneducated
+0,55,2,3,2218,Unknown
+0,39,1,2,4792,High School
+0,50,2,2,4477,High School
+0,63,1,1,4059,Graduate
+0,40,4,1,3973,Uneducated
+0,36,2,3,2624,Uneducated
+0,37,2,1,3444,High School
+0,48,4,1,15050,Doctorate
+0,52,2,2,15281,College
+0,43,4,1,1348,Unknown
+0,56,2,2,5209,Graduate
+0,48,4,3,1777,Unknown
+0,28,1,3,2261,Unknown
+1,48,3,2,2013,Graduate
+0,35,2,3,2070,Uneducated
+0,52,2,1,3226,Unknown
+0,52,4,3,4653,Post-Graduate
+1,48,3,3,2563,Graduate
+0,53,3,1,4519,Graduate
+0,40,3,1,1322,Uneducated
+0,54,2,2,1110,Unknown
+1,51,3,3,1844,Unknown
+1,35,3,2,861,College
+0,47,2,3,4384,High School
+0,37,2,2,3000,Uneducated
+0,51,0,2,4930,High School
+1,43,3,3,2129,High School
+0,44,3,1,4509,High School
+0,61,0,1,14071,High School
+0,40,2,1,2341,Unknown
+0,41,2,2,3151,High School
+0,49,4,3,4575,Graduate
+1,48,0,3,2356,Doctorate
+0,40,2,3,4220,Unknown
+0,55,1,3,2148,College
+0,49,3,1,1506,Uneducated
+1,48,1,2,2171,Uneducated
+0,44,5,3,3239,Post-Graduate
+0,53,1,3,4480,Graduate
+0,65,0,1,2283,College
+1,26,0,2,1134,Post-Graduate
+1,45,2,1,744,Graduate
+1,37,3,3,2284,High School
+1,45,5,2,8603,Uneducated
+0,42,1,3,4154,Unknown
+1,56,2,5,1865,College
+0,49,4,2,2519,Graduate
+0,50,1,4,3740,Uneducated
+0,47,2,1,4715,Unknown
+0,44,2,3,4721,Post-Graduate
+0,45,3,3,15149,High School
+1,46,4,3,1517,Uneducated
+0,40,4,2,4439,Unknown
+1,51,2,3,818,Graduate
+0,47,3,1,3732,Graduate
+0,48,2,2,4303,High School
+0,41,4,2,4379,College
+0,46,2,3,1678,High School
+0,48,3,2,4236,High School
+0,57,2,4,1032,Uneducated
+0,38,1,2,14521,Uneducated
+0,42,4,2,4240,Uneducated
+0,57,3,1,4535,College
+1,58,1,5,2151,Uneducated
+0,56,3,2,4097,Unknown
+0,58,1,1,1631,Unknown
+0,49,1,2,1235,Graduate
+0,37,3,3,2323,Graduate
+1,51,1,3,8531,High School
+0,42,3,2,3299,College
+0,48,3,3,4288,College
+0,57,2,5,4815,Graduate
+0,41,2,2,3663,Unknown
+0,38,2,3,1823,Unknown
+0,41,3,2,4379,Graduate
+1,47,3,2,2164,Uneducated
+0,39,1,4,3875,Graduate
+1,52,0,3,6574,High School
+1,47,3,3,2476,Graduate
+0,48,4,2,7973,Graduate
+0,58,1,2,3163,Unknown
+0,43,5,2,4875,High School
+0,44,3,3,5495,Graduate
+0,63,1,3,4527,High School
+0,53,0,3,3491,Graduate
+0,56,3,1,4576,Uneducated
+1,46,4,2,4983,Unknown
+0,44,0,1,7566,Graduate
+0,52,3,1,3880,Uneducated
+0,41,4,3,1723,College
+0,58,0,3,5270,Graduate
+0,43,3,3,13966,Graduate
+0,37,1,3,4627,High School
+0,43,2,3,3184,Uneducated
+0,52,1,1,2048,Graduate
+0,44,3,3,4173,Uneducated
+0,47,3,4,3784,College
+1,51,3,3,2216,Graduate
+0,44,2,4,5408,Doctorate
+0,40,3,2,4564,Uneducated
+0,45,2,2,8202,Unknown
+0,46,4,2,3691,Unknown
+0,39,5,3,2062,Unknown
+0,44,4,3,1198,High School
+0,47,5,3,3756,Graduate
+0,42,3,3,4442,High School
+0,39,2,3,1860,Graduate
+0,53,1,3,4341,High School
+1,48,5,3,1544,Graduate
+0,35,3,3,1661,Graduate
+0,44,3,4,4646,Graduate
+0,31,0,2,4986,High School
+0,56,2,1,1478,High School
+0,48,2,4,4569,Unknown
+0,37,4,1,4590,High School
+1,61,0,5,1821,Graduate
+0,38,1,2,4401,Unknown
+0,44,4,3,4228,Graduate
+0,40,2,1,3652,Doctorate
+0,42,3,1,1438,Graduate
+0,65,1,3,1855,Graduate
+0,51,3,2,1007,Unknown
+0,46,5,3,4561,Uneducated
+0,51,4,2,1267,High School
+0,48,1,2,3395,Graduate
+0,37,3,2,4621,College
+0,39,1,2,1923,Uneducated
+0,47,4,1,3543,Post-Graduate
+0,42,3,2,1488,Graduate
+0,42,4,1,15905,Uneducated
+0,48,2,2,3897,Graduate
+0,55,4,3,2091,Graduate
+1,49,3,2,2813,High School
+0,44,1,2,1424,Unknown
+0,42,2,1,7168,Graduate
+0,47,1,1,1477,Uneducated
+0,47,2,2,4634,Post-Graduate
+0,38,3,1,2876,Graduate
+0,53,2,3,12025,Post-Graduate
+0,41,4,3,3662,High School
+0,38,3,3,1799,Graduate
+0,56,2,2,1191,High School
+0,51,1,1,4425,Unknown
+0,28,1,3,15862,Post-Graduate
+0,47,3,2,4265,College
+0,44,2,2,3881,Graduate
+1,46,3,3,2689,Graduate
+1,53,0,1,2014,Graduate
+1,30,1,3,1284,College
+0,32,2,1,2580,Graduate
+0,53,1,2,4464,High School
+0,59,1,1,4636,High School
+0,60,0,1,1821,High School
+1,50,3,4,2703,Post-Graduate
+0,38,2,2,2334,Graduate
+0,33,3,2,4069,High School
+0,35,2,2,2685,High School
+0,36,3,3,16258,Graduate
+0,61,0,1,1787,Graduate
+0,63,1,2,1657,College
+0,46,3,3,1319,High School
+0,36,2,1,1670,Unknown
+0,43,5,3,3789,Uneducated
+0,58,2,2,1805,Uneducated
+0,48,4,2,4313,Unknown
+0,55,2,5,4802,Graduate
+0,45,3,1,4677,Unknown
+1,42,2,2,1904,Uneducated
+0,63,2,2,1210,Graduate
+1,58,1,1,2347,Post-Graduate
+1,31,1,1,2428,Unknown
+0,45,4,3,1208,High School
+0,41,2,2,2274,Graduate
+1,38,2,3,1959,Unknown
+1,50,0,3,2229,Graduate
+0,56,2,1,13633,College
+0,44,5,3,3866,Graduate
+0,34,2,3,1899,Graduate
+0,47,4,2,4503,College
+0,55,2,3,3851,Unknown
+0,49,2,3,3400,High School
+1,50,2,2,2281,Post-Graduate
+0,44,4,1,8268,Unknown
+0,51,2,2,3736,Uneducated
+0,45,4,1,17634,High School
+0,51,3,4,4339,Graduate
+0,40,5,2,8669,Graduate
+0,42,1,4,4659,College
+0,43,4,4,3923,Graduate
+0,50,2,3,4233,High School
+0,52,1,3,1737,Graduate
+0,35,0,1,1695,Unknown
+1,55,3,3,1187,Uneducated
+0,54,0,1,4077,Doctorate
+0,33,0,1,5055,High School
+1,43,3,3,647,Doctorate
+1,48,4,2,2520,High School
+0,41,3,3,4282,Graduate
+0,54,2,3,4175,High School
+0,47,3,3,1594,High School
+0,54,3,1,15034,Graduate
+0,46,3,3,4828,High School
+0,56,1,2,1748,Uneducated
+0,65,0,1,2688,Uneducated
+0,38,2,2,4350,High School
+0,50,1,4,3057,Doctorate
+1,39,4,3,8248,Unknown
+0,53,2,3,3971,High School
+0,26,0,1,2005,Graduate
+0,40,4,3,3063,High School
+0,40,3,1,4614,Doctorate
+0,39,2,1,1980,Unknown
+0,57,2,2,15505,Doctorate
+0,50,3,3,3687,Graduate
+1,49,2,1,1096,Graduate
+1,59,2,2,2658,High School
+0,40,3,2,4231,Graduate
+0,42,4,2,4396,Graduate
+0,43,2,1,1273,College
+0,50,3,2,4483,Uneducated
+1,40,4,2,2493,Graduate
+0,37,3,3,4045,Uneducated
+0,48,3,2,1784,Graduate
+0,46,4,2,4439,Graduate
+0,36,0,1,1501,Graduate
+0,43,3,2,1780,College
+0,55,1,3,4729,College
+0,37,4,2,4815,High School
+0,57,2,3,1964,College
+0,40,2,2,2258,Graduate
+1,44,3,3,1913,Uneducated
+0,48,3,2,1568,High School
+0,46,0,1,3630,Graduate
+0,40,2,2,4449,Graduate
+0,32,0,1,1598,Graduate
+0,35,1,3,3995,High School
+1,54,1,2,2925,Graduate
+1,49,4,4,1874,Graduate
+0,38,1,3,1999,Graduate
+0,43,4,3,3337,Unknown
+0,56,1,1,4610,Graduate
+0,46,2,2,4327,Graduate
+0,42,3,3,3740,Graduate
+0,63,0,1,3242,College
+0,50,1,5,4498,Graduate
+0,51,3,3,8914,Graduate
+1,41,3,3,1591,Uneducated
+0,40,1,3,4159,Unknown
+0,48,4,4,2997,Graduate
+0,55,2,5,1647,Uneducated
+0,45,2,2,4891,High School
+1,42,4,3,2056,Graduate
+0,47,3,3,4079,Unknown
+0,57,2,3,4439,High School
+0,60,1,3,4095,Unknown
+0,64,1,1,3838,Graduate
+0,54,2,3,7735,College
+1,39,4,2,1974,Graduate
+0,45,4,3,4512,Unknown
+0,51,4,1,1330,Unknown
+0,46,2,1,4068,Unknown
+1,46,2,3,2577,Unknown
+0,52,3,1,3769,College
+1,36,1,1,2467,Unknown
+0,55,0,3,1390,Graduate
+1,34,2,3,2325,College
+0,43,4,3,4508,High School
+0,46,2,3,1390,High School
+1,62,1,1,1315,High School
+0,33,3,4,2256,College
+0,45,1,3,4851,Unknown
+0,56,2,3,4435,Uneducated
+0,62,2,3,7728,Graduate
+0,36,1,2,2021,Unknown
+1,49,1,3,1224,Uneducated
+1,37,2,3,2196,Graduate
+0,42,2,3,3826,Graduate
+0,43,3,3,4277,Uneducated
+1,56,2,2,2141,Uneducated
+0,29,0,3,2460,College
+0,37,4,1,3045,Post-Graduate
+0,42,0,1,8020,Unknown
+0,29,0,3,2435,Unknown
+0,28,0,3,3366,High School
+0,51,2,1,4441,Unknown
+0,53,4,2,4060,Post-Graduate
+0,49,2,3,3371,Uneducated
+0,39,2,2,2760,Graduate
+0,56,1,3,3877,Graduate
+0,49,3,1,7404,Unknown
+1,47,5,3,2235,High School
+0,52,1,1,3000,High School
+0,52,0,3,3310,Graduate
+1,57,2,2,2836,Unknown
+0,41,3,3,4147,Graduate
+0,53,2,3,1736,Uneducated
+0,45,4,1,4355,Unknown
+0,44,2,3,3361,Graduate
+0,33,2,1,1896,Uneducated
+0,39,2,1,4130,Uneducated
+0,56,5,2,4949,Graduate
+0,47,4,1,4060,College
+0,37,1,1,14127,Uneducated
+1,43,3,3,1915,Uneducated
+0,47,4,3,2311,Unknown
+0,51,1,2,1381,Unknown
+0,43,2,3,4471,High School
+0,54,2,1,13756,College
+0,47,3,3,3902,High School
+0,65,0,3,1203,Graduate
+0,50,3,3,8027,Uneducated
+0,55,1,4,12192,High School
+0,50,3,2,3206,Graduate
+0,37,2,5,4126,Unknown
+0,56,1,1,3651,High School
+0,35,3,1,4105,Graduate
+1,30,0,3,9619,Graduate
+0,47,3,3,3610,Uneducated
+1,45,5,3,8392,High School
+1,43,4,5,647,Post-Graduate
+1,48,4,3,4921,Post-Graduate
+1,36,4,2,856,Graduate
+0,50,5,3,3928,Uneducated
+0,38,2,2,4064,Unknown
+0,45,3,3,1792,Post-Graduate
+0,53,1,2,4801,Uneducated
+1,54,2,3,2643,College
+0,31,1,3,15028,Unknown
+1,59,1,3,2720,Graduate
+0,56,3,5,4606,Graduate
+0,45,2,2,4034,Graduate
+0,59,1,1,14873,Unknown
+0,56,2,2,3870,Graduate
+0,46,4,2,1790,Uneducated
+0,61,0,2,4802,Graduate
+0,48,3,3,1426,College
+0,56,3,3,1484,Graduate
+0,51,1,3,3291,High School
+0,31,0,2,2801,High School
+0,44,5,5,1302,Graduate
+0,41,2,3,15824,Graduate
+0,37,3,2,5110,High School
+0,53,2,2,4256,Graduate
+1,46,3,2,1935,Graduate
+0,29,2,3,4814,Unknown
+0,42,1,1,13588,Graduate
+0,54,3,3,1604,Unknown
+1,47,2,3,2104,Graduate
+0,50,1,1,1142,Graduate
+0,62,0,2,4655,Graduate
+0,55,0,2,8285,Graduate
+0,49,1,1,4349,Graduate
+0,57,3,3,4750,High School
+0,39,2,2,2118,High School
+0,28,0,3,2560,Unknown
+0,43,4,1,5400,Uneducated
+1,46,3,2,1757,Graduate
+1,53,4,5,2585,Graduate
+0,56,2,3,1706,High School
+0,49,1,1,13092,Graduate
+0,46,3,3,1415,Graduate
+0,45,2,2,4837,Unknown
+0,55,2,2,4569,High School
+0,51,3,2,7345,Unknown
+0,33,1,1,4355,High School
+0,50,4,2,7042,Doctorate
+0,41,4,2,4293,High School
+0,47,3,3,9331,Graduate
+0,54,1,1,7850,Graduate
+0,44,4,3,4180,Uneducated
+0,31,0,3,2807,Graduate
+0,51,1,3,7686,College
+0,26,0,3,4080,Unknown
+0,50,2,1,1504,High School
+0,47,1,3,3344,Uneducated
+1,53,4,2,2141,Graduate
+1,45,2,2,1724,Graduate
+0,46,3,1,4382,Uneducated
+1,27,0,1,1903,Unknown
+0,46,5,5,4634,Graduate
+0,47,2,2,4772,Graduate
+0,35,2,1,4434,Graduate
+0,45,4,5,4202,Graduate
+1,40,2,2,2659,Doctorate
+1,48,3,2,2635,High School
+1,52,3,3,2599,High School
+0,48,2,3,14618,Graduate
+0,57,2,2,7544,Graduate
+0,45,3,1,4480,High School
+0,51,1,3,4242,High School
+0,49,2,3,2043,Unknown
+0,61,1,2,1336,High School
+0,43,4,2,3889,Graduate
+0,50,1,2,7333,Unknown
+0,45,4,2,4136,High School
+0,51,3,2,1609,Unknown
+0,44,4,1,8199,Uneducated
+1,39,1,3,847,Uneducated
+1,56,3,1,903,Graduate
+1,45,3,2,1731,High School
+0,52,2,2,4897,High School
+0,48,5,4,3481,Unknown
+1,51,1,3,2760,High School
+0,61,0,3,13722,Graduate
+0,43,2,3,4571,Uneducated
+0,44,3,2,2291,High School
+0,59,1,3,1860,Uneducated
+0,43,4,1,3512,Uneducated
+0,40,3,2,6453,Post-Graduate
+0,31,1,3,2566,Post-Graduate
+0,60,1,3,4226,Unknown
+1,56,3,3,2424,High School
+0,51,2,3,3278,Graduate
+1,44,4,3,2393,Doctorate
+0,46,3,2,7205,High School
+0,35,3,2,1895,High School
+0,51,2,2,13139,Unknown
+0,57,3,2,1387,High School
+0,63,0,2,3383,Unknown
+1,42,3,2,2191,Unknown
+0,47,4,5,18484,Unknown
+0,59,0,2,3882,Graduate
+1,40,3,2,2395,High School
+0,45,4,2,5458,Graduate
+0,51,4,1,4097,Doctorate
+0,38,2,3,5015,Uneducated
+0,47,4,1,5441,Uneducated
+0,46,4,1,4374,High School
+0,44,5,2,4556,Unknown
+0,47,2,5,14751,High School
+1,42,3,3,1693,Doctorate
+0,32,2,3,2905,High School
+0,53,2,3,1816,Unknown
+0,49,5,2,4575,College
+0,54,3,3,1266,High School
+0,44,4,3,14304,Unknown
+0,53,2,1,4978,High School
+1,44,3,3,2506,Graduate
+0,43,2,3,4685,Graduate
+0,28,1,1,3864,Graduate
+1,45,3,5,2526,Graduate
+0,48,3,1,13819,Uneducated
+0,38,3,2,15240,College
+0,39,2,2,2742,Doctorate
+0,46,3,2,3068,Graduate
+0,52,3,4,4461,Unknown
+0,29,1,1,4761,Uneducated
+0,49,4,3,3501,Uneducated
+0,41,2,3,3636,Uneducated
+0,32,0,2,2467,Graduate
+0,53,3,2,2248,College
+1,44,3,2,2048,Graduate
+0,43,2,3,4457,Uneducated
+0,37,3,2,8920,Graduate
+0,48,2,5,3899,Graduate
+0,57,2,3,4303,Graduate
+0,46,4,3,1638,Uneducated
+0,46,3,3,4111,Graduate
+0,51,2,2,4660,Unknown
+0,50,1,1,5532,Graduate
+0,39,2,2,1765,Unknown
+0,41,3,3,4422,Doctorate
+0,40,3,3,3391,College
+0,56,2,1,2311,Graduate
+1,54,4,2,1711,Graduate
+0,32,0,1,1939,High School
+0,40,3,2,14213,Unknown
+0,60,2,3,3837,College
+0,48,3,2,3489,Graduate
+0,54,3,2,1401,Unknown
+0,53,3,2,1397,High School
+0,53,2,4,1413,College
+0,54,3,3,1873,Doctorate
+0,37,2,2,5259,High School
+0,49,2,1,4089,Unknown
+0,50,2,2,1474,High School
+0,41,1,2,4868,Uneducated
+0,44,2,1,4333,Graduate
+0,50,2,3,1193,Uneducated
+0,43,3,2,15367,High School
+0,39,1,1,2995,Uneducated
+1,40,1,3,1698,Post-Graduate
+0,33,3,1,3133,High School
+1,41,4,3,3526,Graduate
+1,41,3,3,1874,Unknown
+0,48,4,3,3982,High School
+0,30,1,5,4189,Uneducated
+0,38,1,3,4488,High School
+1,47,3,3,4729,Graduate
+0,43,5,2,4459,Graduate
+1,43,2,3,2112,Graduate
+0,47,1,3,1409,Graduate
+0,36,1,2,14732,Graduate
+0,35,3,2,4487,Uneducated
+0,53,1,2,1188,Graduate
+1,55,1,2,2574,Uneducated
+0,48,2,2,3093,Unknown
+1,49,3,3,4777,High School
+0,52,1,2,4436,Uneducated
+0,43,4,1,4778,Graduate
+0,41,1,3,4002,Doctorate
+0,39,1,6,3847,Graduate
+0,37,1,1,2849,Graduate
+0,33,2,3,1914,Graduate
+0,52,3,3,1220,Graduate
+0,53,3,2,4220,Graduate
+0,44,4,2,3650,Graduate
+0,33,3,1,2849,Graduate
+1,56,3,3,767,Unknown
+1,50,3,3,1704,College
+0,50,0,2,1546,Doctorate
+0,47,4,1,5216,Uneducated
+1,49,5,4,2306,Graduate
+0,32,0,1,13400,Graduate
+0,41,4,2,2155,Graduate
+0,50,4,1,4265,High School
+0,40,4,2,4252,Graduate
+0,35,3,1,13908,Graduate
+1,39,0,0,2458,Unknown
+0,60,0,2,1969,Uneducated
+1,51,3,4,8219,High School
+0,43,1,1,3320,Graduate
+0,48,1,2,1371,Uneducated
+1,47,4,4,2133,Graduate
+0,45,3,1,1732,High School
+0,44,4,1,14418,Doctorate
+0,60,2,3,3863,Uneducated
+0,43,1,2,7939,High School
+0,48,1,2,4077,Uneducated
+0,40,3,2,3302,High School
+0,31,0,3,14257,Graduate
+0,31,0,2,15347,Graduate
+0,35,3,6,4673,Graduate
+0,45,3,3,2959,Graduate
+0,35,3,1,2144,Unknown
+0,30,0,2,4710,College
+0,47,3,2,7584,Doctorate
+0,49,4,6,4816,Unknown
+0,48,3,3,4276,Doctorate
+0,48,1,1,4228,Unknown
+0,58,2,3,4196,High School
+0,43,2,1,4496,Graduate
+1,47,2,3,2479,Graduate
+0,44,2,3,5039,Post-Graduate
+0,54,3,2,4325,College
+0,44,2,3,1132,Uneducated
+0,31,1,1,4794,High School
+0,45,3,2,1109,Graduate
+0,36,3,2,2739,Graduate
+0,35,3,3,2960,Graduate
+0,40,3,3,4413,High School
+0,54,2,2,7680,Unknown
+1,40,3,2,1811,Graduate
+0,48,2,2,4410,Unknown
+0,48,1,1,4671,Graduate
+1,52,3,3,2724,Doctorate
+0,60,1,1,4542,Graduate
+0,56,2,1,3527,Uneducated
+0,40,4,2,4759,Post-Graduate
+0,63,1,1,1405,High School
+0,42,2,3,4377,College
+0,41,3,3,3906,Graduate
+0,51,3,2,2619,Doctorate
+0,39,2,3,13671,Graduate
+0,46,3,2,3162,Graduate
+0,46,5,2,4087,High School
+0,31,1,2,13142,Unknown
+0,45,4,2,7377,College
+0,33,1,1,2434,Uneducated
+1,53,4,2,8417,Graduate
+1,36,3,3,2491,Graduate
+0,50,2,3,4793,Graduate
+0,40,4,3,4216,Graduate
+0,38,2,2,14474,Graduate
+0,52,2,3,4354,Unknown
+0,51,3,3,4544,High School
+0,52,3,2,4528,High School
+0,57,1,2,4770,High School
+0,53,3,3,14381,Uneducated
+0,45,0,4,4808,High School
+0,46,2,1,4177,High School
+0,55,1,2,1504,Doctorate
+0,46,5,2,3536,High School
+0,50,3,3,2987,High School
+0,48,4,2,5266,Unknown
+0,51,4,1,4690,High School
+0,52,3,3,7509,Graduate
+0,47,3,4,4735,Graduate
+0,42,3,2,14626,Graduate
+0,43,4,3,1939,High School
+0,43,3,4,2119,Doctorate
+0,39,1,1,8271,Uneducated
+0,51,1,3,7481,Uneducated
+0,43,4,4,4591,College
+1,36,2,3,9338,Unknown
+0,44,2,2,4254,Uneducated
+0,50,1,2,4275,Uneducated
+0,44,3,3,906,Graduate
+0,43,1,3,1575,Graduate
+0,40,3,1,1804,Graduate
+0,61,0,2,1755,Uneducated
+0,49,2,3,7468,Graduate
+0,47,2,1,3651,Uneducated
+0,49,2,3,4288,High School
+1,59,1,4,2508,Graduate
+0,42,3,3,4430,High School
+0,47,5,5,3493,Graduate
+0,40,4,2,3721,College
+0,47,4,3,1403,Graduate
+0,43,3,3,4116,Unknown
+0,43,2,3,8947,College
+0,51,1,2,1131,Unknown
+0,33,1,2,2962,College
+0,48,1,1,4336,Graduate
+0,50,1,2,7969,High School
+0,38,2,3,1399,Graduate
+0,59,1,2,3527,High School
+0,45,4,1,8356,Graduate
+1,30,1,1,8759,Graduate
+1,45,4,3,2216,Graduate
+0,47,2,3,4388,Post-Graduate
+1,49,3,3,1832,Unknown
+0,58,3,1,1135,Graduate
+0,34,0,1,1868,Graduate
+0,41,1,2,4897,Graduate
+0,45,1,3,1779,Uneducated
+0,40,3,3,4187,Uneducated
+0,51,3,4,4526,High School
+0,48,2,1,4674,High School
+0,60,1,2,1786,Graduate
+0,46,5,1,4763,High School
+0,49,4,3,13174,High School
+0,48,2,1,1360,High School
+0,32,1,2,4355,High School
+0,53,1,6,3795,Graduate
+0,50,3,3,4488,Unknown
+0,43,4,1,4282,Graduate
+0,46,2,3,4683,Unknown
+0,58,1,3,4553,High School
+1,55,2,6,2719,Graduate
+0,52,2,3,4853,Graduate
+1,37,2,2,2596,Unknown
+0,58,3,3,1724,Graduate
+0,53,0,2,4399,High School
+1,54,3,2,2047,College
+0,55,2,3,1584,Graduate
+0,43,3,2,1510,Unknown
+0,50,4,2,15338,High School
+0,46,2,2,4427,Graduate
+0,46,4,2,13159,Uneducated
+0,51,2,3,4927,High School
+0,60,1,2,4673,Uneducated
+0,58,2,3,14465,Doctorate
+0,50,2,2,4735,Graduate
+0,58,0,3,1649,Post-Graduate
+0,40,2,2,1777,High School
+0,47,4,2,1931,Unknown
+0,42,5,3,1238,Unknown
+0,26,1,3,2266,Unknown
+0,58,3,2,4431,High School
+0,45,5,3,4596,High School
+0,26,0,2,2253,High School
+1,65,2,0,2288,Graduate
+0,44,3,2,4780,Graduate
+0,47,4,2,2851,Unknown
+0,54,1,3,1566,Post-Graduate
+0,55,1,2,2996,Uneducated
+0,43,4,3,1232,Graduate
+0,52,4,1,1470,Graduate
+0,59,0,2,4251,College
+0,48,2,3,3667,Graduate
+1,57,3,3,2299,Unknown
+0,52,5,2,4104,Graduate
+0,43,3,1,1395,Unknown
+0,45,2,1,4550,Post-Graduate
+0,36,3,2,1981,High School
+0,52,1,2,4890,Unknown
+0,52,1,2,8087,Uneducated
+0,41,2,2,5369,Graduate
+0,45,4,3,14709,High School
+0,42,3,2,4277,Unknown
+0,33,3,3,4203,High School
+0,38,3,2,4306,Post-Graduate
+0,48,1,3,13991,Graduate
+0,38,1,2,1646,Graduate
+0,30,1,1,2768,Graduate
+0,50,4,1,15473,Post-Graduate
+0,50,2,2,15060,College
+0,31,0,2,17744,High School
+0,46,4,3,4588,High School
+0,48,3,2,4026,Graduate
+0,43,3,1,4482,College
+0,54,2,2,2600,Post-Graduate
+0,60,1,2,13609,Uneducated
+0,42,5,3,1164,Uneducated
+0,37,2,2,2780,High School
+0,47,2,1,4006,Unknown
+0,52,2,1,1616,Graduate
+0,45,3,1,14314,College
+0,46,3,3,4275,Doctorate
+0,49,3,1,14515,Graduate
+0,53,3,2,4812,Graduate
+0,53,5,4,15290,Graduate
+0,38,1,2,15349,High School
+0,42,4,3,4306,Unknown
+0,54,5,1,4667,Unknown
+1,40,3,2,8528,Graduate
+0,49,3,2,4846,Graduate
+0,40,4,3,5087,High School
+0,53,3,1,8241,Graduate
+1,62,0,2,2112,High School
+0,54,2,3,3817,College
+0,37,4,2,2013,Graduate
+0,41,2,1,1258,Uneducated
+0,45,2,3,3885,Graduate
+0,45,3,4,4803,Graduate
+0,55,4,3,4035,Graduate
+0,45,4,5,5168,College
+0,45,3,1,3560,Unknown
+1,43,1,2,1973,Graduate
+0,35,2,3,4725,Graduate
+0,49,1,3,2139,College
+0,33,3,3,12429,Unknown
+0,56,1,1,1543,Graduate
+0,44,4,1,3834,Post-Graduate
+0,52,3,1,7249,Uneducated
+0,47,3,3,3369,High School
+0,46,3,3,1287,Doctorate
+0,53,4,2,1587,Graduate
+1,43,3,2,8104,Uneducated
+0,38,1,3,1200,Graduate
+0,52,1,1,4515,High School
+0,59,0,3,1861,Unknown
+0,38,2,1,4769,Graduate
+0,45,3,2,4301,College
+0,49,3,3,4110,Graduate
+0,46,2,2,1419,Post-Graduate
+0,41,3,1,3058,Graduate
+0,52,2,1,3707,College
+0,33,2,1,1765,College
+1,40,4,2,2373,Doctorate
+0,59,1,2,5350,Graduate
+0,43,1,3,4780,Graduate
+0,40,4,3,3941,Uneducated
+0,55,1,2,4387,High School
+1,44,4,3,2971,High School
+0,38,3,3,4322,Unknown
+0,50,0,1,4525,Post-Graduate
+0,47,3,3,1452,Uneducated
+0,63,2,2,1188,Graduate
+0,39,3,1,3566,Graduate
+0,29,0,4,2775,Uneducated
+0,46,2,2,4866,Post-Graduate
+0,53,1,2,4755,High School
+1,47,2,3,2388,Doctorate
+0,57,4,3,1501,High School
+0,52,2,2,4389,Unknown
+0,45,5,2,4759,Uneducated
+0,63,1,3,1870,High School
+1,46,5,4,2225,Uneducated
+1,40,2,1,2134,College
+0,55,3,1,1175,Graduate
+0,48,5,2,5016,Unknown
+0,52,3,3,4956,Unknown
+0,46,4,3,4092,Uneducated
+0,34,3,1,2179,High School
+0,40,4,3,14134,High School
+0,27,0,2,4513,Graduate
+0,44,4,2,3383,College
+0,43,3,3,1013,Graduate
+0,50,4,2,15214,High School
+0,46,2,3,4874,Graduate
+0,45,2,3,1321,Uneducated
+1,40,3,2,2323,Graduate
+1,48,3,3,8325,Post-Graduate
+0,46,5,3,3539,Unknown
+0,51,2,3,3553,Uneducated
+1,52,2,3,2213,High School
+0,38,3,3,3607,Graduate
+0,40,2,3,4010,Graduate
+0,47,5,1,4570,Graduate
+0,52,4,3,14973,Graduate
+1,38,2,1,2752,High School
+0,44,2,3,3948,Graduate
+0,55,2,3,3153,Doctorate
+0,34,3,1,2141,Uneducated
+0,40,4,3,4453,Post-Graduate
+1,47,2,3,1682,High School
+0,40,2,1,4584,Graduate
+0,56,3,3,4610,Uneducated
+1,57,4,2,9040,Unknown
+0,41,1,1,1329,Graduate
+0,31,1,3,2109,College
+0,37,2,2,4087,High School
+0,43,1,2,5848,College
+0,46,2,1,3281,High School
+0,32,0,2,1538,High School
+0,29,0,1,2336,Post-Graduate
+1,44,2,3,2227,High School
+0,42,2,1,14557,Unknown
+0,46,3,3,4025,Graduate
+1,51,2,3,1907,Uneducated
+0,55,3,3,7345,College
+0,40,1,2,4309,High School
+0,53,2,1,4812,Graduate
+0,60,0,1,1618,Uneducated
+0,45,3,4,4014,Unknown
+0,39,4,1,2593,Graduate
+1,40,3,2,2729,Graduate
+0,49,4,2,14374,Graduate
+0,61,0,2,1339,Graduate
+0,31,2,2,2789,Uneducated
+0,56,3,2,1220,College
+1,33,1,3,2254,Graduate
+0,60,1,3,1169,Unknown
+0,55,2,2,1473,Uneducated
+0,41,3,6,3943,Graduate
+0,37,2,6,13970,Graduate
+0,49,2,2,4457,High School
+1,46,2,2,1968,High School
+0,44,1,1,4014,Graduate
+0,54,2,3,14103,Uneducated
+1,44,4,3,2316,Doctorate
+0,40,5,2,3368,Unknown
+0,47,2,2,14381,Uneducated
+0,50,3,5,4338,Graduate
+0,49,3,1,3777,Unknown
+0,39,5,3,3647,Graduate
+0,36,1,3,2369,High School
+0,41,2,1,4204,Post-Graduate
+0,32,1,3,3007,Graduate
+0,31,0,3,2411,Uneducated
+1,54,0,3,2538,High School
+0,50,2,3,14703,High School
+0,28,0,2,2395,College
+0,59,0,1,5066,Unknown
+0,52,5,2,4258,Doctorate
+0,61,1,3,3440,Graduate
+1,48,4,2,2306,Doctorate
+0,55,2,2,3681,Doctorate
+0,65,0,2,2229,Unknown
+0,52,3,2,4434,Uneducated
+0,31,1,1,14731,High School
+0,49,2,2,3592,College
+0,37,4,3,2878,Graduate
+1,41,2,2,2245,High School
+0,42,4,1,8502,Graduate
+1,38,2,3,2600,Uneducated
+0,55,2,1,1966,College
+0,55,4,2,8295,Unknown
+0,32,0,3,2501,Graduate
+0,53,1,3,2199,Graduate
+0,51,4,2,1405,High School
+1,40,2,2,1633,Post-Graduate
+0,34,3,1,4634,Uneducated
+1,44,4,3,2287,Graduate
+1,58,1,4,715,Uneducated
+0,35,2,3,3015,High School
+0,41,3,2,7971,Graduate
+0,51,1,1,3783,Unknown
+0,56,3,3,4970,Graduate
+0,45,4,2,14393,College
+0,49,4,2,4678,Graduate
+0,44,1,2,3632,Unknown
+0,53,3,3,1609,Doctorate
+1,61,1,2,3121,High School
+0,42,3,2,5212,Graduate
+0,40,4,3,3672,Graduate
+0,40,4,2,4702,Uneducated
+0,47,2,1,4279,High School
+0,43,1,2,1569,Unknown
+1,41,2,2,2362,Graduate
+0,53,3,2,5489,Graduate
+0,41,4,4,4775,High School
+0,41,3,1,4038,High School
+0,40,4,3,1999,College
+1,51,1,3,2839,Graduate
+0,38,1,3,2503,Graduate
+0,45,2,2,4604,Uneducated
+0,41,2,1,13730,High School
+1,42,4,2,1841,College
+1,50,2,2,2131,College
+0,50,1,1,2298,Uneducated
+0,43,3,2,4656,Graduate
+1,50,3,2,1872,Uneducated
+0,26,0,3,2473,Unknown
+0,45,3,3,4103,Graduate
+0,48,3,1,4705,Unknown
+0,46,3,2,4719,College
+0,40,3,2,1469,High School
+1,35,0,3,7712,Doctorate
+1,54,1,1,1632,Unknown
+0,52,3,1,14426,Graduate
+0,44,3,2,3550,Graduate
+0,52,3,1,5047,Uneducated
+0,35,1,0,4840,High School
+1,38,2,3,2812,High School
+0,45,3,3,4175,Graduate
+0,42,4,3,7471,High School
+0,47,2,3,4643,High School
+0,49,4,2,3768,Unknown
+1,48,3,3,2790,High School
+1,46,4,3,2488,Unknown
+0,40,3,1,14512,Uneducated
+1,41,3,2,9102,Doctorate
+0,31,0,2,5155,High School
+1,47,3,3,2736,High School
+0,49,3,2,4185,Graduate
+0,52,0,3,1102,Uneducated
+0,40,3,3,3891,Graduate
+0,28,0,1,1822,Post-Graduate
+0,39,3,3,3659,High School
+0,39,2,3,3046,High School
+0,52,0,3,3487,Unknown
+1,54,1,2,2239,College
+0,47,4,3,3188,Uneducated
+0,52,2,3,3992,Unknown
+0,44,3,3,4961,Doctorate
+0,65,1,3,2429,Uneducated
+0,48,2,3,4004,Uneducated
+0,38,3,1,5125,Graduate
+0,46,2,2,3703,Post-Graduate
+0,43,4,1,4098,Graduate
+0,37,2,2,4287,High School
+0,43,3,1,14545,Graduate
+0,39,2,3,4050,Uneducated
+0,40,4,2,4001,Unknown
+0,45,2,1,8423,Graduate
+0,49,2,3,8220,Graduate
+0,42,3,2,5103,College
+0,53,1,3,4657,Graduate
+0,38,4,3,1731,Graduate
+0,61,1,4,4141,College
+0,43,0,2,4894,High School
+0,51,2,3,4684,Graduate
+0,56,2,3,1535,College
+0,42,1,3,4199,Uneducated
+1,49,3,3,9192,Uneducated
+0,54,3,1,4401,Post-Graduate
+0,48,4,1,14224,Unknown
+0,38,3,2,7385,College
+0,55,2,3,3705,Graduate
+0,31,0,1,15738,High School
+0,34,3,1,1817,Uneducated
+0,31,0,1,1912,Graduate
+0,54,3,3,1615,Uneducated
+0,49,5,3,4213,Graduate
+0,61,1,2,2066,Doctorate
+0,47,4,2,4272,Post-Graduate
+0,52,1,2,3913,Unknown
+0,64,0,3,1420,Graduate
+0,58,2,2,16401,Post-Graduate
+1,55,1,2,888,High School
+0,47,2,2,1330,Graduate
+0,34,3,1,1544,College
+0,39,3,3,4157,College
+0,32,1,3,2637,Unknown
+0,43,5,1,4191,Uneducated
+1,51,2,3,940,Uneducated
+0,37,1,2,1680,Graduate
+0,54,2,4,4155,Doctorate
+0,48,3,2,4926,High School
+0,37,3,4,2595,Unknown
+0,46,1,2,1767,Uneducated
+0,54,2,1,4880,Doctorate
+0,56,2,3,1741,Doctorate
+0,54,2,3,15190,Graduate
+0,53,2,2,4952,Graduate
+0,59,0,3,4338,Graduate
+0,47,4,1,1387,Doctorate
+0,50,2,2,1861,Graduate
+0,47,1,3,7729,Unknown
+1,47,4,4,2400,Post-Graduate
+0,44,3,2,3309,Graduate
+0,50,3,3,3659,High School
+0,45,5,3,3859,Graduate
+0,36,1,3,14252,Uneducated
+1,54,1,3,2535,Graduate
+0,35,1,1,4946,Unknown
+0,44,1,2,4999,High School
+0,56,1,3,4059,Graduate
+0,53,1,2,16373,College
+0,36,0,3,1755,Unknown
+0,57,3,2,1325,Uneducated
+0,57,1,2,1681,High School
+0,48,3,1,1807,High School
+0,51,1,3,14826,Uneducated
+0,51,4,2,15635,High School
+0,48,4,3,4091,Graduate
+0,42,2,2,4649,Uneducated
+0,43,2,2,4771,Graduate
+0,49,2,4,4109,Uneducated
+1,47,1,2,2738,Unknown
+0,45,3,2,4178,Graduate
+0,51,2,2,14373,Graduate
+1,45,4,3,4996,Post-Graduate
+0,43,4,1,3452,College
+0,57,3,3,3943,Graduate
+0,56,1,2,13939,High School
+0,50,4,1,5056,Graduate
+0,47,2,1,3725,Uneducated
+0,56,4,4,1645,Unknown
+0,57,2,3,5112,College
+0,51,2,3,7850,Uneducated
+1,44,2,2,2888,Doctorate
+0,41,2,2,4906,High School
+0,52,3,3,4287,Uneducated
+0,44,2,1,1385,Graduate
+0,49,2,3,2073,Post-Graduate
+0,45,4,4,4552,High School
+1,54,3,4,2717,High School
+0,55,3,2,2238,Graduate
+0,37,1,3,2061,College
+0,53,1,4,3634,Graduate
+0,49,5,2,4075,Uneducated
+0,48,3,1,4421,High School
+1,49,4,3,2494,Uneducated
+0,49,4,2,3013,High School
+1,51,3,3,8614,Graduate
+1,49,3,3,2451,College
+0,49,3,1,7590,Uneducated
+1,51,4,3,2443,Graduate
+0,33,1,1,2263,Graduate
+1,54,1,3,8165,Unknown
+1,41,3,3,1813,Graduate
+0,56,1,2,1439,College
+0,41,5,2,1911,Graduate
+0,47,3,2,1451,Graduate
+0,64,0,2,3412,Graduate
+0,38,2,2,3831,Uneducated
+0,53,3,2,5299,Graduate
+0,57,4,3,7794,Graduate
+0,51,2,1,1456,Unknown
+0,31,2,3,14185,Graduate
+0,43,1,3,4581,High School
+0,53,1,1,12906,Graduate
+0,55,0,3,1743,High School
+0,57,1,3,1515,High School
+0,47,1,3,3692,High School
+0,36,1,1,4045,Graduate
+1,31,1,3,9212,Uneducated
+0,37,2,3,2171,Graduate
+0,54,3,2,4869,Uneducated
+0,38,2,3,3168,High School
+0,52,2,2,4037,High School
+0,38,3,3,1843,Post-Graduate
+0,53,4,1,16230,High School
+0,41,3,3,1463,Graduate
+1,44,4,3,2527,Uneducated
+0,52,2,1,1630,High School
+0,63,1,1,4877,Uneducated
+1,52,3,3,922,Post-Graduate
+0,45,3,2,1717,High School
+0,44,3,1,8094,Graduate
+0,35,2,2,2080,Graduate
+0,61,0,3,14463,Graduate
+0,43,3,2,1972,College
+0,53,1,2,3411,Graduate
+0,38,2,3,1970,Graduate
+0,46,3,2,4303,Unknown
+0,35,1,3,5473,High School
+0,65,0,2,4480,Unknown
+0,50,2,1,14211,Graduate
+0,47,4,1,1814,Unknown
+0,54,4,3,4512,High School
+0,54,4,1,2195,Graduate
+0,50,2,2,3811,Graduate
+1,42,3,3,2165,College
+0,40,3,2,5308,Graduate
+0,53,3,1,4068,Unknown
+0,48,4,3,1593,College
+0,58,1,3,3112,Unknown
+0,53,4,2,1876,High School
+0,36,1,3,15097,Uneducated
+0,51,3,1,4126,Uneducated
+0,46,5,2,4209,Unknown
+0,42,5,2,14955,Post-Graduate
+0,39,1,2,4712,Post-Graduate
+0,57,3,3,3498,Unknown
+0,46,3,2,4454,Uneducated
+0,45,4,4,4114,Graduate
+0,39,4,3,1821,College
+0,50,3,4,4339,Unknown
+0,34,2,3,4339,High School
+0,48,2,3,4763,Graduate
+0,29,2,1,14740,College
+0,42,3,3,3738,Unknown
+0,39,2,2,2783,Post-Graduate
+1,45,2,2,2468,Graduate
+0,53,3,3,1458,Uneducated
+0,41,2,3,4406,Unknown
+0,32,2,3,3769,Post-Graduate
+0,49,1,3,4680,Post-Graduate
+0,47,4,3,4592,Graduate
+0,40,3,2,3504,Graduate
+0,44,0,3,15211,Unknown
+1,53,1,6,2164,Graduate
+0,58,3,1,3060,Unknown
+0,41,4,2,1828,Uneducated
+0,47,3,1,3170,High School
+1,44,2,3,7507,Graduate
+1,43,4,3,2613,High School
+1,42,5,2,2574,Unknown
+0,55,3,2,1777,Graduate
+0,45,4,1,4246,Graduate
+0,53,3,2,4606,College
+0,44,4,4,4190,Graduate
+0,54,2,1,1903,High School
+1,33,4,3,2439,Uneducated
+0,28,1,3,2698,High School
+1,42,0,3,1793,High School
+0,37,3,3,1678,Graduate
+0,43,3,2,4838,High School
+0,41,2,3,14771,Unknown
+0,46,3,1,7594,College
+0,47,1,1,3578,Graduate
+0,45,3,1,1468,College
+0,65,1,3,2489,College
+0,49,3,2,4468,Uneducated
+0,30,0,2,2048,Graduate
+1,61,0,2,840,Graduate
+1,46,2,0,2423,Unknown
+0,52,3,2,1599,Graduate
+0,46,4,3,16695,High School
+0,54,1,3,1640,College
+0,55,2,2,1383,High School
+0,26,0,2,2520,High School
+0,32,2,2,4419,Uneducated
+0,52,0,4,4689,Uneducated
+0,54,3,3,4854,Graduate
+0,44,1,2,3878,Unknown
+0,38,2,3,1475,Uneducated
+0,59,1,3,5557,Uneducated
+0,49,4,3,3561,High School
+1,38,2,2,2527,Unknown
+1,48,3,3,2185,Unknown
+1,42,3,3,2339,College
+0,44,4,3,3456,Graduate
+0,49,4,3,4208,Graduate
+0,33,4,2,1852,Post-Graduate
+0,44,1,3,3576,Unknown
+0,34,1,3,2689,Doctorate
+0,43,1,3,4898,High School
+0,59,0,1,1489,Uneducated
+0,53,3,6,2093,Graduate
+0,58,1,3,1815,College
+0,36,4,1,2552,Unknown
+0,49,4,3,4759,Graduate
+0,51,2,2,3920,Doctorate
+0,46,5,2,2436,High School
+0,42,4,3,4642,Post-Graduate
+0,51,2,3,4572,Uneducated
+0,56,4,2,1354,High School
+1,54,1,3,2763,Graduate
+0,42,1,2,3323,Unknown
+0,40,4,1,12631,High School
+0,44,4,3,5161,Graduate
+0,46,2,2,16252,High School
+0,46,2,2,3942,Unknown
+0,41,2,2,3831,Graduate
+0,42,4,2,2935,High School
+0,40,3,1,4405,Uneducated
+0,52,2,2,2910,Graduate
+1,51,4,3,2520,Graduate
+0,44,3,3,4348,Uneducated
+0,52,2,1,2030,Post-Graduate
+0,48,2,3,8575,High School
+1,47,1,3,2276,Graduate
+0,44,4,3,3870,Graduate
+0,53,0,1,14409,Graduate
+0,56,1,2,1447,Graduate
+1,45,4,3,2729,Doctorate
+0,47,2,3,1501,Graduate
+0,39,3,3,4754,Graduate
+0,45,5,2,4667,Unknown
+0,42,4,3,4620,College
+0,52,4,3,3464,Post-Graduate
+0,50,3,2,4248,High School
+0,40,2,1,1558,Graduate
+0,48,1,1,5163,Graduate
+0,58,3,1,4769,Uneducated
+1,44,2,3,4909,Post-Graduate
+0,45,3,4,3916,High School
+0,44,2,3,7890,Unknown
+0,30,1,2,4322,Graduate
+0,35,2,2,4667,College
+0,38,3,1,4517,Unknown
+1,54,3,3,2612,College
+0,51,1,2,3346,Unknown
+0,41,3,2,931,High School
+0,33,0,1,2878,Unknown
+0,54,3,3,1636,College
+0,47,2,3,1564,College
+0,42,3,2,7434,Graduate
+0,37,3,1,3999,High School
+0,40,4,3,1504,Graduate
+0,64,1,3,1613,Unknown
+0,57,1,2,1519,High School
+0,49,3,2,3598,Graduate
+0,61,0,3,1448,Post-Graduate
+0,59,0,1,1456,Graduate
+0,60,1,1,4592,Graduate
+0,46,4,2,3718,High School
+0,49,4,3,4691,Graduate
+0,49,1,3,3924,High School
+0,39,2,3,2279,Graduate
+0,43,3,2,4217,Unknown
+0,51,3,1,4024,Graduate
+0,54,1,2,1706,Uneducated
+0,42,3,2,3943,Uneducated
+0,48,4,3,4284,Unknown
+0,49,3,3,3875,College
+1,57,2,3,2767,Uneducated
+0,44,2,2,3745,Graduate
+0,33,2,1,2603,Graduate
+0,46,3,3,3099,Uneducated
+0,36,4,4,5005,College
+0,36,0,2,2448,Uneducated
+0,53,4,1,1288,High School
+0,52,2,2,15497,Graduate
+0,54,4,5,4609,College
+0,44,4,2,1196,Unknown
+0,49,2,1,3676,High School
+0,45,5,1,5067,High School
+0,43,3,1,8785,Graduate
+0,60,0,3,3627,Unknown
+0,42,3,2,3108,Uneducated
+0,41,3,3,1465,Graduate
+0,42,2,3,5051,High School
+0,48,3,1,4264,Graduate
+1,39,3,1,8056,High School
+0,51,2,6,5074,Doctorate
+0,38,1,3,14637,High School
+0,39,0,2,4386,Graduate
+1,47,3,3,1507,Graduate
+0,53,3,3,4437,Graduate
+1,46,3,3,2629,Uneducated
+0,42,4,3,4792,College
+0,41,5,1,3088,Post-Graduate
+0,44,4,2,16605,Unknown
+0,59,0,1,4833,Uneducated
+0,50,1,2,4740,Uneducated
+0,51,2,2,8796,Unknown
+0,45,4,2,3856,Unknown
+1,43,4,2,2473,Unknown
+0,38,3,2,1499,High School
+0,56,1,1,14596,Graduate
+0,65,0,2,3998,College
+1,47,4,2,1736,Uneducated
+1,52,1,3,3004,Uneducated
+0,35,1,3,2562,Uneducated
+0,33,2,3,1742,Doctorate
+0,46,4,1,4460,Graduate
+1,37,3,2,1339,Post-Graduate
+0,52,1,3,3533,Graduate
+0,56,2,1,4333,Graduate
+0,54,3,2,4633,High School
+0,47,2,2,2694,Unknown
+1,38,3,2,2256,College
+0,52,5,1,3452,Graduate
+0,46,1,2,4417,Graduate
+1,54,0,3,2321,Doctorate
+0,51,2,3,4336,Unknown
+1,47,2,2,2529,Graduate
+0,49,4,3,5172,Unknown
+0,48,4,6,4727,Post-Graduate
+0,65,0,3,4554,High School
+0,41,3,2,3642,Graduate
+0,35,3,2,2238,Graduate
+1,42,0,3,2307,Uneducated
+1,42,2,2,708,Uneducated
+0,36,3,2,1606,Graduate
+1,44,2,2,2469,Graduate
+0,26,0,3,2644,Graduate
+1,58,1,3,918,College
+0,42,5,2,4698,Unknown
+0,59,0,3,14838,High School
+0,33,3,3,2584,Graduate
+1,40,4,1,1028,Graduate
+1,46,2,2,1775,Doctorate
+0,40,3,3,5080,Uneducated
+0,49,4,3,14212,Post-Graduate
+0,57,2,3,1683,Uneducated
+0,35,3,3,2167,Doctorate
+0,53,1,6,13247,High School
+0,47,3,2,15627,Unknown
+0,58,2,2,4537,High School
+0,41,3,3,4081,High School
+0,35,3,1,2447,Graduate
+0,65,0,5,5103,Uneducated
+0,50,3,1,1930,High School
+1,41,5,3,2801,Graduate
+0,46,2,3,1245,High School
+0,39,1,3,13703,Graduate
+0,49,4,2,4546,Uneducated
+0,44,4,3,5428,Graduate
+0,49,3,3,1173,Graduate
+0,55,2,1,13289,Graduate
+0,31,1,1,3264,High School
+0,47,3,3,7926,Uneducated
+0,50,0,3,1386,Uneducated
+1,55,5,2,2244,Unknown
+0,40,3,1,4977,Uneducated
+1,38,2,4,1137,Uneducated
+0,47,4,2,4246,Graduate
+0,60,1,3,1378,Unknown
+0,40,2,5,3441,Unknown
+1,47,3,5,2164,Unknown
+1,46,2,3,9314,High School
+0,37,1,1,2591,Graduate
+1,41,3,3,1679,Unknown
+0,46,2,3,1672,Uneducated
+1,47,3,3,2064,High School
+0,45,2,1,5221,Uneducated
+0,48,2,2,1390,Unknown
+0,53,3,1,4574,Graduate
+0,43,5,3,4797,Uneducated
+0,49,2,1,4013,Uneducated
+0,57,3,3,3297,High School
+1,38,2,3,2031,Graduate
+0,30,0,2,1819,High School
+0,51,2,1,4348,Graduate
+0,51,3,3,4348,Graduate
+0,32,0,3,3006,Uneducated
+0,49,4,1,3675,Unknown
+0,47,2,3,2170,Graduate
+1,57,3,6,8004,Unknown
+0,46,2,3,1254,Doctorate
+1,55,1,2,2665,Graduate
+0,44,3,1,13967,College
+0,49,3,3,4150,High School
+0,54,3,1,1446,Doctorate
+0,46,2,6,4917,Graduate
+0,36,2,3,3215,High School
+0,47,4,1,5363,Graduate
+0,35,4,3,5089,College
+0,42,3,1,8417,Unknown
+0,44,3,2,3999,Uneducated
+0,39,1,2,3078,Uneducated
+1,35,3,3,2178,College
+0,43,4,3,1408,Unknown
+1,46,2,2,967,Uneducated
+0,52,4,1,4188,High School
+0,51,2,3,3893,Graduate
+0,56,1,2,15274,Graduate
+0,55,2,2,1592,Graduate
+0,38,3,1,1527,High School
+0,44,3,3,3242,Unknown
+1,50,1,3,4929,Post-Graduate
+0,35,2,1,4365,Unknown
+0,41,2,2,1209,Graduate
+0,53,2,1,15212,High School
+0,59,2,6,4658,Unknown
+0,39,3,2,3572,Graduate
+0,51,2,2,4388,Unknown
+0,50,1,3,4533,High School
+0,47,4,2,2962,Doctorate
+0,40,2,3,2528,High School
+0,41,3,1,4191,High School
+0,45,2,3,1393,Graduate
+0,56,1,3,2502,Uneducated
+0,49,3,1,3915,Unknown
+0,49,2,2,4122,Unknown
+0,52,2,2,8604,Doctorate
+0,31,1,1,13988,College
+0,62,0,1,3714,Unknown
+0,40,3,3,4677,Graduate
+0,50,1,1,4937,Unknown
+0,39,2,2,2583,Graduate
+0,46,3,2,3279,High School
+0,44,4,3,7042,Graduate
+0,50,3,2,4203,Uneducated
+0,49,3,1,1468,Graduate
+0,46,3,4,4256,Graduate
+0,34,1,3,1926,High School
+0,47,3,2,4538,Unknown
+0,55,2,1,3470,High School
+0,57,2,3,16319,Uneducated
+1,32,0,2,8376,College
+1,48,2,3,8293,Graduate
+0,38,1,3,2409,High School
+0,44,3,2,4127,Graduate
+0,60,1,1,3280,Post-Graduate
+0,44,3,1,3888,Graduate
+0,45,2,1,4964,Graduate
+0,42,4,2,3886,Graduate
+0,50,2,2,4905,Uneducated
+0,45,4,2,3746,High School
+1,43,4,3,7847,Uneducated
+0,53,2,2,13930,High School
+1,45,3,2,2030,Unknown
+0,53,2,3,7642,College
+0,38,1,1,4475,Doctorate
+0,56,4,2,4925,Doctorate
+0,44,4,2,1052,College
+0,56,3,1,1626,High School
+0,43,3,1,2512,Graduate
+0,48,4,2,1671,Post-Graduate
+1,50,2,2,2935,Unknown
+0,61,0,1,5224,High School
+0,30,0,2,2907,Graduate
+0,48,3,2,3546,Graduate
+0,48,2,3,4059,Unknown
+0,42,3,1,4518,Graduate
+0,27,0,1,2026,Unknown
+0,46,5,3,3660,Doctorate
+0,65,1,2,3855,College
+0,55,4,2,1425,Graduate
+0,50,2,1,4254,Graduate
+0,59,1,2,15004,Doctorate
+0,42,4,3,4767,Graduate
+1,59,0,4,2256,Doctorate
+1,45,4,4,827,Uneducated
+1,55,1,3,1735,College
+0,59,2,1,13751,Graduate
+0,44,2,1,4349,Uneducated
+0,46,1,2,8313,Graduate
+0,58,3,3,4363,Graduate
+0,42,1,3,14728,Graduate
+0,50,4,3,4310,College
+0,48,3,3,4376,Post-Graduate
+0,45,3,2,7149,High School
+0,40,4,3,3870,Post-Graduate
+0,44,3,2,1810,Graduate
+1,37,2,2,2243,Unknown
+0,63,0,3,4533,Uneducated
+0,35,2,3,2534,Graduate
+1,48,3,2,4801,Unknown
+0,61,0,2,4313,High School
+0,40,3,1,8571,Doctorate
+0,50,3,2,1198,Graduate
+0,47,4,5,1039,Unknown
+0,32,3,2,14593,High School
+0,45,5,3,14209,Doctorate
+1,51,1,3,2878,High School
+0,53,1,3,16023,College
+0,40,2,2,16101,Uneducated
+1,39,1,3,2397,Uneducated
+0,51,0,2,4525,Doctorate
+0,39,2,2,2094,High School
+0,39,2,4,1842,Graduate
+1,43,1,3,2137,Post-Graduate
+0,45,3,3,3530,High School
+0,55,1,3,4548,Graduate
+0,53,3,2,1497,College
+1,50,3,4,2271,Graduate
+0,49,2,2,4863,Uneducated
+0,48,2,3,4540,Uneducated
+0,47,3,2,4295,Graduate
+0,56,2,5,4774,Graduate
+0,44,3,3,7605,High School
+0,50,5,2,4550,Graduate
+0,33,2,3,4390,Unknown
+0,53,3,2,1387,High School
+0,46,5,3,3916,High School
+0,46,3,1,4747,Graduate
+0,47,3,4,7283,Unknown
+0,38,4,1,4717,Graduate
+0,46,3,2,3586,Graduate
+0,57,1,3,2673,Unknown
+0,60,0,3,4070,Uneducated
+0,44,3,3,14242,Unknown
+1,46,2,3,2619,Unknown
+0,52,4,3,1771,High School
+1,48,5,3,2260,Post-Graduate
+0,47,5,1,2902,College
+0,50,0,3,3240,Uneducated
+1,41,2,3,4822,Graduate
+1,44,2,3,2100,Doctorate
+0,39,1,1,4078,Post-Graduate
+0,51,4,3,4716,Unknown
+0,31,1,2,2308,Uneducated
+0,60,1,1,2117,Doctorate
+0,37,1,3,5136,Graduate
+1,54,1,3,2519,Unknown
+1,46,4,2,2061,Graduate
+0,38,1,2,4960,High School
+0,40,4,1,4734,Uneducated
+0,31,0,1,13109,Uneducated
+0,46,3,3,4270,High School
+0,26,0,1,3567,Post-Graduate
+0,38,2,3,2935,Graduate
+1,54,2,3,2750,Uneducated
+1,37,3,1,2568,High School
+0,31,0,1,2457,Graduate
+1,62,0,5,2281,Post-Graduate
+0,44,1,1,4088,Unknown
+0,48,2,3,1309,Uneducated
+0,55,2,1,4439,Uneducated
+1,43,2,2,2537,Uneducated
+1,50,2,2,2438,Post-Graduate
+1,56,4,3,781,High School
+0,58,2,2,8061,Uneducated
+0,52,2,3,4850,Graduate
+1,44,1,2,10583,Uneducated
+0,60,2,3,4858,Unknown
+0,44,2,2,4988,Uneducated
+1,45,4,2,2198,Unknown
+0,46,4,1,5138,Graduate
+0,45,0,1,8987,Doctorate
+0,46,4,1,4272,Uneducated
+0,39,2,3,1602,Unknown
+0,39,2,2,7570,Uneducated
+0,53,3,2,1297,High School
+0,53,2,2,4133,High School
+0,34,3,3,2902,Unknown
+0,36,1,2,3959,Graduate
+0,49,3,2,1549,Post-Graduate
+0,44,4,3,4983,High School
+0,48,3,1,7549,Graduate
+0,52,0,4,4880,Graduate
+0,44,2,3,8927,Graduate
+0,50,2,1,4891,Graduate
+0,56,1,4,4371,Unknown
+0,36,2,3,1965,Graduate
+0,37,1,3,2468,Uneducated
+1,47,3,3,2169,Uneducated
+1,36,3,1,694,Post-Graduate
+0,59,1,3,5177,Unknown
+0,64,0,3,1597,Graduate
+0,35,3,3,2753,Graduate
+0,44,3,2,3773,College
+0,41,1,3,4917,College
+0,41,4,2,2589,Unknown
+1,47,3,2,1920,Uneducated
+0,51,4,3,4580,Graduate
+1,52,3,5,2343,High School
+0,41,2,1,4933,Graduate
+0,48,2,2,4422,Unknown
+0,46,5,1,8231,High School
+0,43,1,1,14727,Graduate
+0,29,1,3,3759,Unknown
+0,52,2,2,4461,Uneducated
+1,38,1,3,4619,High School
+0,48,0,1,2198,Unknown
+0,59,2,3,15107,Uneducated
+0,43,3,2,1720,Graduate
+0,48,4,3,3876,Unknown
+0,26,0,1,2781,Graduate
+0,49,4,2,7962,Graduate
+0,52,3,6,5146,College
+0,45,3,2,3814,High School
+0,42,3,2,4605,Graduate
+1,48,4,3,1626,Uneducated
+1,50,2,4,7661,Graduate
+0,34,0,3,2405,Graduate
+1,58,1,3,8100,Graduate
+0,45,2,2,8773,Graduate
+0,36,2,2,4855,Doctorate
+0,38,2,1,2906,Uneducated
+0,41,3,3,15140,College
+0,46,4,1,1715,Graduate
+0,45,4,1,1906,Doctorate
+0,35,2,1,4679,Unknown
+0,56,4,3,4714,High School
+0,55,2,2,3281,Graduate
+0,44,3,2,4666,Uneducated
+1,56,2,6,1920,High School
+0,55,1,2,1308,Graduate
+0,51,2,3,4101,College
+0,48,3,3,4518,High School
+0,54,4,3,4731,College
+0,43,2,4,3820,Unknown
+1,53,1,2,1635,Graduate
+0,47,4,1,1343,Graduate
+0,61,0,1,1876,Uneducated
+0,43,4,2,15226,Uneducated
+0,45,3,2,4928,Graduate
+1,52,1,4,2310,Unknown
+1,38,3,2,1460,Uneducated
+0,47,1,1,4471,Uneducated
+1,52,1,3,829,Uneducated
+0,58,3,2,14111,Graduate
+0,58,0,3,4653,High School
+1,56,1,5,2220,High School
+0,46,2,2,3612,Unknown
+0,36,2,1,1652,Graduate
+0,52,4,5,5053,Uneducated
+0,35,3,3,2172,Graduate
+0,36,2,3,2631,Graduate
+0,46,4,3,8178,Uneducated
+1,43,3,3,4866,Graduate
+0,42,3,3,8512,High School
+0,40,5,2,4256,Graduate
+0,52,5,1,4587,Unknown
+0,36,4,3,2243,Doctorate
+0,49,4,3,3990,High School
+0,39,4,3,14043,Post-Graduate
+0,37,2,2,4159,High School
+0,55,1,2,14750,Uneducated
+0,44,3,4,7663,Post-Graduate
+0,46,2,1,14428,Graduate
+0,57,2,4,3031,Graduate
+0,47,3,1,4353,Unknown
+1,42,2,3,2257,Unknown
+0,45,5,2,4071,Uneducated
+0,46,4,3,3253,High School
+0,49,1,3,15937,Graduate
+0,40,2,3,3644,High School
+1,46,4,3,5537,High School
+0,53,1,2,1213,Graduate
+0,41,3,3,1455,Uneducated
+0,40,3,3,15121,Unknown
+1,44,2,2,1944,Graduate
+0,57,1,3,4578,High School
+0,54,1,2,1256,Graduate
+0,46,3,3,4050,Unknown
+0,42,4,3,3910,Uneducated
+1,54,2,3,2145,Unknown
+0,43,2,1,1531,Unknown
+0,55,2,1,1731,Unknown
+1,45,4,2,2032,Doctorate
+0,38,4,3,2807,Graduate
+1,51,3,3,2552,Graduate
+0,47,3,5,4093,Uneducated
+1,46,1,3,2216,Graduate
+0,36,5,1,1975,High School
+0,38,1,3,16628,Uneducated
+0,51,0,3,7604,Uneducated
+0,45,4,3,13300,Uneducated
+0,46,2,5,4520,Uneducated
+0,36,4,2,1968,Doctorate
+0,50,2,3,4904,Uneducated
+0,34,4,2,4626,Graduate
+0,47,2,2,1588,Graduate
+0,44,2,2,3942,Uneducated
+0,51,2,1,1422,Graduate
+0,47,2,3,3018,Uneducated
+0,44,2,2,4312,High School
+0,46,4,3,1517,Graduate
+0,49,3,2,4890,High School
+0,44,2,3,4048,Unknown
+0,62,0,2,7739,Post-Graduate
+0,41,4,1,4539,College
+0,40,3,2,3906,Uneducated
+0,46,5,3,4615,Graduate
+0,61,0,2,4253,Post-Graduate
+0,36,3,3,4769,Uneducated
+0,43,4,3,3929,Graduate
+0,38,4,2,15611,Unknown
+0,46,3,2,1456,College
+0,42,3,3,3436,Post-Graduate
+0,55,1,2,1612,Graduate
+1,41,5,2,2874,Graduate
+0,44,3,1,7123,Graduate
+0,60,0,3,4533,Unknown
+0,36,0,2,15549,Unknown
+0,46,4,3,4481,Graduate
+0,42,2,3,3434,Graduate
+0,42,3,4,4512,Doctorate
+0,37,3,1,2420,High School
+0,55,2,2,4836,High School
+1,36,2,2,2716,Post-Graduate
+0,52,1,1,4388,Uneducated
+0,39,2,2,4000,Uneducated
+0,60,1,1,1354,High School
+0,55,2,6,3998,Graduate
+1,39,2,2,2596,Unknown
+0,43,3,2,4197,Doctorate
+0,49,4,2,3427,Uneducated
+0,48,3,1,5014,High School
+0,35,2,1,1914,Graduate
+0,46,2,3,14227,High School
+0,40,2,2,2428,Graduate
+0,60,2,4,3488,Graduate
+0,55,3,2,1337,High School
+0,46,3,2,13280,Graduate
+1,49,3,3,2644,College
+0,61,0,1,1479,Graduate
+0,57,2,4,3303,Unknown
+0,42,3,3,15903,High School
+0,53,3,2,7460,Graduate
+0,29,1,2,13306,Uneducated
+0,41,3,2,4173,Graduate
+0,46,4,2,7582,Doctorate
+0,38,3,4,4121,Graduate
+0,48,2,1,1520,College
+0,51,2,3,4402,Graduate
+0,41,4,3,4962,Graduate
+1,48,5,3,673,High School
+0,60,1,3,14112,Unknown
+0,51,1,4,5149,High School
+0,62,0,3,4003,Graduate
+0,38,2,2,4093,Graduate
+0,49,2,2,3912,High School
+1,42,3,3,1000,College
+0,56,4,1,4268,Unknown
+0,42,4,2,4751,Uneducated
+0,54,2,1,7302,Graduate
+0,34,2,3,5228,Post-Graduate
+0,48,3,2,3502,Post-Graduate
+0,43,3,3,4551,High School
+0,65,1,2,1314,Unknown
+0,29,1,3,4333,Uneducated
+0,39,2,3,1794,Unknown
+0,43,3,1,3395,Uneducated
+0,46,3,3,5170,Graduate
+0,47,3,3,4167,Unknown
+0,55,2,1,1425,Unknown
+0,54,2,1,3553,Graduate
+0,44,2,1,4043,Post-Graduate
+0,39,4,1,8854,Doctorate
+0,42,2,2,1289,Unknown
+0,44,4,1,13999,College
+0,41,4,3,1616,Uneducated
+1,34,3,3,7031,Graduate
+1,52,2,3,4907,Graduate
+1,49,2,4,1592,Graduate
+1,45,2,2,1720,Uneducated
+0,37,4,3,2574,Graduate
+0,41,4,1,1306,High School
+0,54,1,3,4148,High School
+0,36,2,2,2331,Post-Graduate
+0,51,1,3,3377,High School
+1,41,3,2,9061,Uneducated
+0,37,1,3,1921,Graduate
+0,52,2,3,1313,High School
+1,52,3,4,1554,Post-Graduate
+0,60,0,3,3280,Graduate
+0,51,2,1,4156,Unknown
+0,48,3,3,1843,Graduate
+0,52,2,3,4458,High School
+0,45,3,2,15005,Post-Graduate
+0,39,3,2,1693,College
+0,46,0,3,3543,Graduate
+0,46,5,2,3636,Uneducated
+0,42,4,2,7612,Graduate
+0,44,2,1,4047,Graduate
+0,33,2,3,4196,Doctorate
+0,51,2,1,4885,High School
+0,46,2,3,14340,High School
+0,51,4,3,5016,Unknown
+0,54,2,3,1843,Uneducated
+1,39,2,3,2567,Uneducated
+0,40,2,2,7288,Uneducated
+0,54,1,3,3170,Graduate
+1,54,1,6,2599,Unknown
+1,52,1,3,8124,Unknown
+0,47,3,2,14132,Graduate
+0,49,2,1,2845,Unknown
+0,40,2,2,4624,Graduate
+0,47,4,2,2005,Graduate
+1,30,0,1,7292,Graduate
+0,53,2,3,15078,High School
+1,50,3,3,2381,Uneducated
+0,40,4,2,5097,Unknown
+0,51,1,3,4885,Uneducated
+0,51,2,2,4368,High School
+0,53,0,3,1856,Graduate
+0,52,2,1,14490,Uneducated
+0,43,4,3,4432,Unknown
+0,44,4,1,3971,Graduate
+0,42,4,4,4577,Uneducated
+1,45,3,3,2600,Graduate
+0,38,3,3,5245,High School
+0,39,2,1,1807,High School
+0,37,1,3,2181,Graduate
+1,60,1,6,2869,Uneducated
+0,42,4,1,4707,College
+1,35,2,3,2482,Unknown
+0,48,1,4,4199,Graduate
+0,47,5,2,4039,Unknown
+0,56,1,1,4212,High School
+0,40,2,2,4776,Unknown
+0,41,4,2,3695,Graduate
+0,40,3,2,13617,Graduate
+0,45,3,1,4389,High School
+0,41,3,4,13085,Unknown
+1,43,2,3,6205,Post-Graduate
+0,36,4,1,1663,Uneducated
+0,35,1,3,2317,Post-Graduate
+0,39,4,3,2674,Post-Graduate
+1,51,2,3,2977,Graduate
+1,43,2,2,1868,High School
+0,55,2,2,1813,College
+0,37,4,3,5199,Unknown
+0,50,2,3,2916,Unknown
+0,52,2,2,4418,Graduate
+0,28,0,1,2591,Graduate
+0,41,2,3,4119,Doctorate
+0,41,4,3,1463,High School
+0,54,2,2,1065,Graduate
+0,43,3,2,3891,High School
+0,42,2,3,3942,College
+0,43,3,3,4783,Graduate
+0,37,2,3,1555,Graduate
+0,58,3,1,1915,High School
+0,45,3,5,7834,High School
+1,39,1,3,1195,College
+0,35,2,3,2623,High School
+0,36,2,3,2746,High School
+0,49,2,2,3918,Graduate
+0,49,1,3,3981,Graduate
+0,56,2,3,16518,College
+0,43,2,3,4093,Uneducated
+0,38,2,1,3368,Post-Graduate
+0,39,2,1,4112,Uneducated
+0,56,4,3,4586,Post-Graduate
+0,57,1,4,4649,High School
+0,44,4,2,1227,Graduate
+0,62,0,2,4355,Uneducated
+0,45,3,4,4776,Unknown
+0,59,1,2,8780,Graduate
+0,45,2,1,3875,Graduate
+0,31,0,2,13794,Uneducated
+0,57,1,1,4689,College
+1,53,1,3,2474,High School
+0,54,5,3,1119,Graduate
+0,50,3,1,1905,Unknown
+0,47,4,3,2078,High School
+0,45,3,3,5274,Graduate
+0,48,2,1,4828,Graduate
+0,37,1,3,15293,Doctorate
+0,52,3,2,5077,Graduate
+1,29,1,1,9658,High School
+0,51,1,2,4211,Doctorate
+0,48,4,1,4327,High School
+0,37,2,1,2553,Graduate
+0,42,2,2,4163,High School
+0,63,1,2,1734,High School
+0,47,4,1,3685,Uneducated
+0,51,1,2,4753,Unknown
+0,43,4,2,14565,Graduate
+0,37,3,2,1865,Graduate
+0,44,2,1,4413,College
+0,35,3,1,1311,Graduate
+0,30,0,3,15634,College
+0,56,2,1,3151,High School
+0,50,3,3,4535,College
+1,42,4,2,1934,Unknown
+0,55,1,2,1456,High School
+0,45,4,2,8608,Uneducated
+0,47,1,2,4740,High School
+0,42,4,1,1364,Uneducated
+1,38,4,2,2221,Graduate
+0,55,1,3,4317,Graduate
+0,41,3,2,4853,Graduate
+0,48,3,2,3750,Graduate
+0,41,1,3,1489,High School
+0,44,2,1,3104,Unknown
+0,62,0,3,4274,High School
+0,64,0,3,1375,College
+0,47,2,3,4228,College
+0,35,2,2,4551,Unknown
+0,54,2,1,4350,Unknown
+0,43,3,1,1774,Unknown
+0,43,3,3,14829,College
+0,54,0,2,2445,Post-Graduate
+0,37,2,2,4215,Graduate
+0,41,3,3,3754,Graduate
+0,54,3,3,1435,Uneducated
+0,29,1,3,14791,Graduate
+0,44,2,3,1058,Uneducated
+0,39,4,4,3711,Graduate
+0,43,3,3,1441,Graduate
+0,50,2,1,4208,High School
+0,43,3,2,4893,Post-Graduate
+0,52,2,3,3142,College
+1,59,0,4,2851,Unknown
+0,42,1,3,4119,High School
+0,51,1,2,1804,Graduate
+0,54,4,3,5924,Post-Graduate
+1,44,1,2,1891,High School
+0,44,4,2,4244,Graduate
+0,36,3,1,2069,High School
+0,41,4,1,4544,Graduate
+0,55,3,2,1472,College
+0,36,2,2,2883,Graduate
+0,44,3,1,15508,Post-Graduate
+0,56,3,2,1425,High School
+1,62,1,3,1581,Unknown
+0,43,4,1,1860,High School
+0,33,0,1,3306,Unknown
+0,49,2,1,4628,Uneducated
+0,45,3,3,4326,Graduate
+0,55,3,3,4674,College
+0,47,3,2,4267,High School
+0,53,4,3,4271,Unknown
+0,33,2,3,1378,Graduate
+0,46,2,2,1763,Graduate
+0,51,4,2,7548,Unknown
+1,62,0,3,692,Graduate
+0,40,3,2,2027,Graduate
+1,59,2,3,844,Post-Graduate
+0,53,1,1,1074,High School
+0,52,1,3,3446,Uneducated
+1,55,2,0,2278,College
+0,50,3,2,3774,Uneducated
+0,49,5,2,4061,Uneducated
+0,48,3,3,5480,High School
+0,65,2,2,1256,Unknown
+0,46,3,1,3328,Uneducated
+0,48,3,1,4609,College
+0,54,0,3,3360,Graduate
+0,62,0,1,3703,Graduate
+0,65,1,3,1797,Uneducated
+1,54,4,3,2092,High School
+0,58,0,2,4962,Graduate
+0,53,1,1,14305,High School
+0,56,5,3,14781,Doctorate
+0,43,3,3,7409,College
+0,43,4,3,1566,Post-Graduate
+0,57,3,3,3396,College
+0,54,0,3,1292,Graduate
+0,57,2,3,1516,Unknown
+1,56,1,2,2371,Post-Graduate
+0,59,2,3,4422,Graduate
+0,33,4,2,2412,High School
+0,55,4,2,5025,Uneducated
+0,63,0,2,3677,Unknown
+0,37,2,2,2717,High School
+0,44,0,2,4572,High School
+0,49,5,1,1291,Graduate
+0,51,2,1,4498,Uneducated
+0,61,0,3,4344,Post-Graduate
+0,60,1,3,3103,Uneducated
+0,35,2,1,14257,Graduate
+0,57,2,3,3758,High School
+0,46,4,2,14892,High School
+0,35,0,3,2808,High School
+0,48,3,2,1374,High School
+0,50,2,1,1812,Unknown
+0,50,1,2,3874,Graduate
+0,44,4,2,7736,Uneducated
+1,37,0,3,850,Doctorate
+0,52,3,1,4791,Uneducated
+0,45,2,3,4166,Graduate
+1,55,1,4,2877,High School
+0,45,4,1,7587,College
+0,45,3,2,4976,Graduate
+0,50,1,1,5237,Graduate
+1,53,4,3,1739,Graduate
+0,53,3,1,7758,Graduate
+1,61,1,2,705,Unknown
+0,56,3,3,16179,Graduate
+1,27,0,3,10219,High School
+0,52,3,2,2089,High School
+1,47,1,3,1998,High School
+1,43,5,3,4804,Graduate
+0,41,4,1,15123,Graduate
+0,39,1,2,8438,Unknown
+0,26,1,3,2270,College
+0,43,2,2,1665,College
+0,36,2,3,2597,College
+0,37,4,1,1463,Graduate
+0,45,3,2,5020,High School
+0,62,0,1,1406,Unknown
+0,59,0,3,3365,Graduate
+0,64,1,3,3942,Graduate
+0,48,2,2,4581,Post-Graduate
+0,61,0,1,1820,Post-Graduate
+0,47,3,2,4491,Post-Graduate
+0,26,1,1,4138,High School
+0,51,1,3,2036,Uneducated
+0,39,1,3,1902,Graduate
+0,49,3,3,4869,Uneducated
+0,46,4,2,3534,Unknown
+0,37,2,3,12603,Graduate
+0,50,2,4,3568,College
+0,45,4,2,4275,College
+0,49,5,2,1502,Unknown
+0,40,2,3,3966,Unknown
+0,45,2,3,14220,High School
+0,55,3,1,4131,Graduate
+1,44,1,3,10291,High School
+0,52,0,3,1736,Graduate
+0,52,3,3,4293,High School
+0,37,3,3,2439,Graduate
+1,47,3,2,1676,High School
+0,64,0,1,1355,Uneducated
+0,45,3,6,4430,Graduate
+1,33,2,2,2833,Graduate
+0,56,3,2,1229,Graduate
+0,51,3,2,1481,Unknown
+1,49,2,3,2520,Unknown
+1,50,2,3,1863,Uneducated
+0,53,4,2,2242,Graduate
+0,65,0,1,3495,Uneducated
+0,47,3,3,3635,Doctorate
+0,60,0,3,4467,College
+0,55,3,3,2481,College
+0,38,3,3,3789,Uneducated
+0,39,3,2,3124,College
+0,32,1,1,15925,High School
+0,35,3,3,1790,College
+0,62,1,2,4199,Unknown
+0,50,3,3,4630,Unknown
+0,57,1,3,1464,Graduate
+0,40,4,2,4763,Unknown
+0,48,3,3,13980,Graduate
+0,49,4,2,7906,Uneducated
+0,60,1,3,3516,Graduate
+0,38,5,5,4268,Graduate
+1,54,3,2,2398,High School
+1,56,2,3,8454,Unknown
+0,43,3,3,1994,College
+1,59,2,5,2146,Uneducated
+0,34,3,1,3833,Graduate
+1,59,2,3,2594,Unknown
+0,53,1,3,4881,College
+0,53,1,2,1379,High School
+0,50,1,5,3647,Unknown
+0,37,2,2,4730,College
+0,31,2,3,2329,Unknown
+0,47,1,2,4422,Post-Graduate
+1,56,2,2,2123,Graduate
+0,49,3,3,3890,Graduate
+0,37,3,1,3246,Graduate
+0,59,0,1,4455,High School
+0,33,0,2,1387,Graduate
+1,49,3,2,3100,Graduate
+0,27,1,2,2294,Graduate
+0,38,1,2,13140,Doctorate
+1,48,3,3,2430,Uneducated
+0,42,4,2,1614,Uneducated
+1,54,2,1,1642,Uneducated
+0,49,2,1,2922,High School
+0,46,3,2,1409,College
+0,42,5,3,1903,Graduate
+1,44,1,2,2512,Graduate
+1,37,1,2,2374,High School
+0,39,3,2,1529,College
+0,56,0,6,4118,Graduate
+0,31,0,1,16464,Graduate
+0,57,0,2,1546,Graduate
+0,43,4,1,1394,Uneducated
+1,39,2,3,2859,High School
+0,45,2,3,1749,College
+1,46,3,4,1102,College
+1,44,3,2,2418,Unknown
+0,38,1,3,4106,Graduate
+0,44,3,2,12739,High School
+0,59,0,1,1904,Doctorate
+0,54,2,3,15033,Post-Graduate
+0,42,3,2,4429,High School
+0,64,0,3,1662,Unknown
+0,45,4,2,1773,Graduate
+0,45,4,3,8007,Doctorate
+1,39,3,2,2010,Unknown
+0,54,1,3,2768,Doctorate
+0,39,3,3,3944,Graduate
+1,53,0,4,1461,High School
+0,50,3,1,3569,Graduate
+0,51,4,3,1795,High School
+1,43,2,3,1937,Uneducated
+0,42,3,3,1537,High School
+0,35,2,2,2079,College
+0,48,5,2,3230,Uneducated
+0,26,0,3,2564,High School
+0,40,4,3,4438,Uneducated
+0,51,1,1,3837,High School
+0,44,2,1,1775,Unknown
+0,45,4,4,3802,High School
+0,59,1,2,4899,College
+0,43,1,3,1518,Graduate
+0,50,1,1,14341,Graduate
+1,32,1,3,1376,High School
+0,49,2,2,3806,Graduate
+0,63,0,2,1730,Unknown
+0,42,3,2,3921,Uneducated
+0,48,3,3,2838,Unknown
+1,45,4,4,1697,Unknown
+0,48,2,3,4462,Graduate
+0,57,1,3,5750,Graduate
+0,43,3,2,3970,Unknown
+0,43,2,3,4419,Graduate
+0,40,1,2,4300,High School
+1,48,2,2,2228,High School
+0,30,0,5,1567,Graduate
+1,54,2,3,2313,High School
+0,52,2,1,1433,Unknown
+0,47,3,3,13769,Post-Graduate
+1,57,2,6,2511,Uneducated
+0,61,2,1,15802,Uneducated
+0,42,3,2,4838,High School
+0,56,2,2,1448,Uneducated
+0,33,3,2,2171,High School
+0,52,2,2,1309,Graduate
+0,55,3,2,1842,Graduate
+0,46,3,3,4678,College
+0,44,2,1,1729,Graduate
+1,44,3,3,1979,College
+0,38,1,3,4116,Unknown
+1,48,2,2,2499,Graduate
+0,56,0,1,4684,College
+0,51,2,6,16059,Unknown
+0,62,0,1,2123,Graduate
+0,44,3,3,4509,High School
+0,40,3,2,1872,Uneducated
+0,36,3,2,3222,Graduate
+0,42,5,1,1230,Unknown
+0,44,1,4,4819,Graduate
+0,44,4,1,4429,High School
+0,55,1,1,1910,High School
+0,48,4,2,4227,Graduate
+1,46,4,2,1799,Post-Graduate
+0,53,3,3,1687,Graduate
+1,26,0,2,1027,Graduate
+0,43,1,3,1212,Graduate
+0,47,3,2,4037,Unknown
+0,57,2,2,3228,Unknown
+0,35,1,2,4145,Graduate
+0,41,3,2,4220,Doctorate
+0,56,0,2,4241,Unknown
+0,41,2,2,4727,Graduate
+0,44,3,2,4625,Graduate
+0,39,4,3,2443,Uneducated
+1,36,1,2,2516,Graduate
+0,50,3,1,4509,Graduate
+0,37,3,1,1583,Uneducated
+1,40,3,2,2051,Uneducated
+0,40,3,3,13672,Graduate
+0,47,3,1,4598,Post-Graduate
+0,57,3,1,4304,College
+0,48,3,2,4539,High School
+0,53,2,1,1636,Unknown
+0,53,3,2,7766,Graduate
+1,49,1,1,4517,Graduate
+0,38,3,3,3904,High School
+1,53,1,2,2432,College
+1,48,4,2,739,Uneducated
+0,39,2,2,4203,Doctorate
+0,32,3,3,1921,Graduate
+0,49,5,1,15039,Graduate
+0,58,1,2,1410,Doctorate
+0,39,2,1,2201,High School
+0,50,3,3,4419,Graduate
+1,48,4,2,2013,High School
+0,42,5,2,1789,Graduate
+0,48,4,3,5111,High School
+0,47,2,3,14018,Uneducated
+0,46,2,3,4958,Graduate
+0,46,3,2,4775,High School
+0,53,3,3,1627,Uneducated
+0,45,3,3,4547,Uneducated
+0,40,2,3,1382,Uneducated
+0,35,3,1,4601,Doctorate
+1,35,4,3,717,Graduate
+1,45,5,3,8586,College
+1,49,3,3,1329,High School
+0,33,3,3,4208,Graduate
+0,47,1,3,1497,Graduate
+0,49,2,2,3737,Post-Graduate
+0,38,3,1,3831,High School
+0,38,2,3,14719,Doctorate
+0,52,1,2,4617,Unknown
+0,60,0,2,1361,High School
+0,48,5,3,16171,College
+1,49,3,2,1756,Graduate
+0,43,3,3,4401,High School
+0,47,4,1,5065,High School
+1,49,3,3,2648,Unknown
+0,44,4,3,5001,Unknown
+0,52,3,3,1427,College
+0,42,1,1,978,Graduate
+0,54,0,2,4751,Graduate
+0,44,3,2,3164,College
+0,57,2,2,4322,Graduate
+0,45,4,3,3520,Unknown
+0,41,3,3,4365,Unknown
+0,57,2,3,4664,Graduate
+0,42,3,3,1675,Graduate
+0,36,1,5,17437,Graduate
+1,53,2,3,1133,Graduate
+0,35,3,3,4359,Graduate
+0,44,4,2,3784,Graduate
+0,58,1,2,1541,High School
+1,56,2,6,2229,Doctorate
+0,46,3,3,4255,Graduate
+0,44,5,2,4984,High School
+0,32,3,2,1874,High School
+0,36,2,3,2747,Doctorate
+0,51,2,1,15209,Graduate
+0,43,3,2,3778,Unknown
+1,56,3,3,2804,Graduate
+1,47,4,3,4885,College
+0,53,2,2,4012,Graduate
+0,53,2,2,1256,Graduate
+0,40,5,1,15851,High School
+0,51,2,4,4431,Graduate
+0,44,1,1,4820,College
+0,51,3,3,7352,Post-Graduate
+0,41,4,3,3127,Graduate
+0,39,2,3,9179,Unknown
+0,43,3,3,5021,Graduate
+1,34,2,2,2312,Graduate
+1,57,1,3,7733,Uneducated
+0,48,3,4,3512,Graduate
+0,55,2,2,14475,Doctorate
+0,44,2,2,4122,College
+0,49,1,2,3380,Graduate
+0,39,3,3,15335,Graduate
+0,52,1,2,4286,Unknown
+0,50,2,1,1986,Unknown
+0,48,1,2,4916,Unknown
+0,57,3,1,1409,Post-Graduate
+0,54,3,3,12956,Graduate
+0,50,3,2,16692,Graduate
+0,57,3,2,1389,High School
+0,41,5,3,5089,Graduate
+0,38,1,3,1484,Graduate
+0,54,1,3,15130,Unknown
+0,50,2,2,4906,Post-Graduate
+0,54,2,3,3771,Graduate
+0,46,3,3,1619,Unknown
+0,49,3,1,7678,Graduate
+0,48,2,2,3577,High School
+0,41,3,4,4268,High School
+0,45,3,1,2978,High School
+0,29,0,2,1608,Graduate
+1,42,3,3,2516,Graduate
+1,38,3,3,2478,High School
+0,53,3,2,4421,Uneducated
+0,39,1,3,4343,Graduate
+0,44,4,2,4892,Uneducated
+0,57,3,3,4239,Graduate
+0,48,5,3,15282,Unknown
+0,38,2,2,7885,High School
+0,58,0,4,4082,Doctorate
+0,35,1,2,2274,High School
+0,55,3,2,1097,Unknown
+0,35,3,1,1986,Uneducated
+0,36,4,3,4356,Uneducated
+0,53,3,3,4075,Post-Graduate
+0,50,2,1,1932,Uneducated
+0,29,0,2,3519,Post-Graduate
+0,32,1,2,1657,High School
+0,43,4,3,5446,Graduate
+0,47,4,2,1087,Uneducated
+0,37,1,2,1377,Graduate
+0,52,1,1,4620,Graduate
+0,42,2,3,4916,Post-Graduate
+0,37,2,2,4513,Graduate
+0,52,2,3,1332,High School
+0,40,4,1,9137,Post-Graduate
+0,48,4,3,4550,College
+1,60,1,1,8193,Uneducated
+0,50,2,2,4794,Graduate
+0,54,1,1,4302,Post-Graduate
+0,44,3,3,4532,Unknown
+0,41,3,3,3817,College
+0,39,2,5,4409,Graduate
+1,53,3,3,2314,Graduate
+0,48,3,3,1362,College
+1,41,1,3,2499,High School
+0,58,3,1,14235,Unknown
+0,47,4,1,16207,Graduate
+0,34,4,3,15077,Unknown
+0,44,3,3,2960,College
+0,51,4,3,4460,College
+0,50,1,1,3873,Graduate
+0,46,4,3,9406,College
+1,40,3,1,2684,Uneducated
+0,51,3,4,3504,Unknown
+0,42,3,5,1776,High School
+1,43,3,2,3174,Graduate
+0,48,3,1,3410,Uneducated
+0,38,2,1,13677,High School
+1,40,3,2,2634,High School
+0,32,1,3,14551,High School
+1,54,0,2,3901,Graduate
+0,38,3,2,3514,Unknown
+0,36,2,3,2882,College
+0,48,4,3,7403,High School
+0,57,3,3,4360,Post-Graduate
+0,44,1,1,7665,Graduate
+0,46,3,1,3631,Post-Graduate
+0,58,2,1,1417,Uneducated
+1,52,2,3,5806,Graduate
+0,27,1,1,2236,High School
+0,49,2,3,1582,Uneducated
+1,46,4,3,2450,Graduate
+0,37,2,2,2732,High School
+0,46,2,3,4277,High School
+0,55,1,2,4960,Unknown
+0,37,2,1,4733,Graduate
+0,52,2,1,4844,College
+0,61,1,1,4705,High School
+0,39,2,2,15869,College
+0,44,1,3,1341,College
+1,44,4,3,9360,High School
+0,61,1,3,8216,Graduate
+0,45,4,2,15571,Graduate
+0,30,2,3,2510,College
+0,48,3,1,3205,Graduate
+0,41,4,1,1768,Graduate
+0,37,2,3,4495,Uneducated
+0,50,0,2,4194,Graduate
+0,56,4,1,2027,High School
+0,46,2,3,4117,Unknown
+0,32,1,3,14880,Uneducated
+0,33,3,3,2641,Graduate
+0,52,3,3,1454,College
+0,50,4,3,3730,Graduate
+0,26,0,3,2351,High School
+0,44,4,1,3706,Uneducated
+0,41,3,2,4342,College
+0,30,1,3,15670,Unknown
+0,39,2,3,1992,Post-Graduate
+0,36,2,3,2283,Unknown
+0,62,0,1,1194,Post-Graduate
+0,46,3,1,9185,Unknown
+1,54,3,3,8444,Graduate
+0,49,2,3,4842,College
+0,36,2,3,2973,College
+0,46,3,3,1481,Uneducated
+0,45,3,3,1914,Graduate
+0,49,4,2,16132,College
+0,46,3,3,3101,College
+0,59,2,3,13647,Unknown
+0,50,1,1,5025,High School
+1,47,4,3,2021,Uneducated
+0,43,1,3,4210,Graduate
+0,63,1,3,3913,Graduate
+0,51,2,2,7555,Uneducated
+1,50,1,2,2176,College
+0,59,1,3,1551,Graduate
+1,40,3,2,1884,Graduate
+0,41,4,3,4406,Uneducated
+0,52,2,4,2275,Graduate
+0,53,1,1,3670,Graduate
+0,50,1,1,7755,Graduate
+0,45,3,3,4431,Unknown
+0,27,0,1,4715,Graduate
+0,65,2,2,1627,High School
+0,48,2,3,1235,Graduate
+0,34,3,2,4317,Uneducated
+0,30,0,1,3904,High School
+0,55,4,1,4885,Graduate
+1,41,1,3,3142,Doctorate
+0,45,3,2,4110,Uneducated
+0,60,2,2,1475,High School
+0,56,1,1,4390,Uneducated
+0,34,3,2,13804,Graduate
+0,30,1,3,13173,High School
+0,38,3,1,3625,Graduate
+0,52,3,3,4119,Unknown
+0,46,2,2,5005,College
+1,42,3,3,2360,High School
+0,40,2,2,4481,High School
+0,50,1,3,1936,High School
+1,50,4,3,1480,Graduate
+0,47,1,4,4105,High School
+0,42,3,3,3029,College
+0,56,3,3,4803,Uneducated
+0,31,0,3,1831,Graduate
+0,41,3,2,3455,Unknown
+0,44,2,1,4471,College
+1,56,2,3,602,Graduate
+0,48,2,3,2051,High School
+0,35,3,2,4823,Unknown
+0,39,2,2,2905,Graduate
+0,49,2,3,3664,College
+0,61,2,2,4838,Graduate
+0,47,5,3,4123,High School
+0,52,2,3,3882,College
+1,41,4,2,2331,Unknown
+0,46,3,3,3754,High School
+0,48,5,3,15903,Unknown
+0,62,0,1,4693,Uneducated
+0,37,3,3,4714,Post-Graduate
+0,44,2,2,4869,Graduate
+0,50,3,2,1721,Post-Graduate
+0,48,4,1,1545,Graduate
+0,50,4,1,14666,Graduate
+0,60,0,3,4522,College
+0,54,1,3,4468,College
+0,56,2,3,4108,High School
+0,36,4,2,3073,College
+0,45,3,1,1984,Graduate
+0,49,0,1,8618,High School
+0,41,2,2,1505,Graduate
+0,58,1,3,4533,Unknown
+0,33,1,2,2429,Graduate
+0,59,0,3,1430,Unknown
+0,42,3,2,4212,High School
+0,43,2,1,4736,High School
+1,43,5,3,1941,Uneducated
+0,39,1,5,4846,Uneducated
+0,43,3,2,1624,Unknown
+0,40,2,2,4455,Uneducated
+0,61,0,2,1207,Uneducated
+0,59,2,1,4154,Uneducated
+0,51,0,2,4305,Graduate
+0,53,3,1,1872,High School
+0,42,4,2,13784,Doctorate
+0,30,0,4,2441,High School
+0,58,1,2,4223,Doctorate
+0,29,1,2,14524,High School
+0,47,4,1,4341,Graduate
+0,45,4,2,3915,Graduate
+0,50,2,2,4620,High School
+0,36,4,3,4591,High School
+0,65,0,2,2758,Unknown
+0,26,0,2,2602,Unknown
+0,41,2,1,4300,High School
+1,50,2,3,2370,Unknown
+0,50,2,2,4037,Unknown
+0,49,3,1,4124,Uneducated
+0,42,1,3,8108,Post-Graduate
+1,59,1,4,10170,High School
+0,27,1,3,5176,College
+0,47,3,3,5108,Uneducated
+1,60,0,1,2412,High School
+0,65,1,3,1597,College
+0,51,3,3,1233,High School
+0,49,2,3,8352,College
+1,39,1,2,2870,High School
+0,55,1,2,4313,College
+0,53,2,2,4312,Unknown
+0,63,1,2,4247,Graduate
+0,44,2,3,4301,Graduate
+0,43,3,2,4845,High School
+0,49,0,3,4160,Uneducated
+0,45,4,3,4905,Post-Graduate
+0,63,1,3,4366,Uneducated
+0,47,5,3,3578,Graduate
+1,54,2,3,1980,Graduate
+0,54,2,3,1836,Graduate
+0,44,3,2,13152,Graduate
+0,37,3,2,2751,High School
+0,40,3,3,4160,Graduate
+0,37,2,6,1401,High School
+0,46,4,3,3034,College
+0,45,0,3,3490,Graduate
+0,57,3,1,14287,Post-Graduate
+0,58,4,3,1199,High School
+0,44,2,3,3758,Graduate
+0,53,2,1,3711,Uneducated
+1,51,4,3,2179,Graduate
+0,31,0,3,14544,College
+0,44,3,3,3334,High School
+0,34,1,1,5192,Graduate
+0,41,3,2,7932,College
+0,42,3,2,13692,Graduate
+0,58,4,1,1368,Graduate
+0,52,3,2,4724,Graduate
+0,48,4,2,4959,Post-Graduate
+1,50,1,2,1441,High School
+0,52,2,3,5283,Unknown
+0,51,3,1,4065,Unknown
+0,46,4,3,1610,Graduate
+0,54,3,3,5044,Graduate
+0,61,0,3,1836,High School
+1,36,3,2,2060,College
+0,53,2,1,1656,Graduate
+1,44,4,3,3120,Graduate
+0,49,1,2,1106,Graduate
+0,32,3,1,2346,Graduate
+0,42,2,1,4711,Graduate
+0,39,3,3,4203,Graduate
+0,56,4,1,1561,Uneducated
+0,40,4,3,1513,Graduate
+0,38,2,1,4369,Graduate
+0,32,2,1,2466,High School
+0,45,3,1,1312,Unknown
+0,48,4,2,5031,Graduate
+0,42,1,3,4518,Doctorate
+0,44,4,1,3658,Uneducated
+0,48,4,3,3277,College
+0,53,2,2,13545,Post-Graduate
+0,50,0,3,4836,High School
+0,46,1,3,5006,Unknown
+0,44,4,1,4549,Post-Graduate
+0,31,1,3,14643,Unknown
+0,47,2,4,5192,College
+0,45,3,3,4353,Graduate
+0,55,0,1,1018,High School
+0,64,0,2,3951,Graduate
+0,26,0,1,3323,College
+0,62,0,1,1281,College
+0,48,5,1,4615,Uneducated
+0,63,1,1,1539,Unknown
+0,39,1,3,1820,Uneducated
+1,36,2,1,569,Graduate
+0,45,1,1,3891,Graduate
+0,56,3,1,1093,Unknown
+1,57,1,3,938,Graduate
+0,41,1,4,7332,College
+0,40,3,2,4348,Post-Graduate
+0,63,0,3,3434,Unknown
+0,61,1,2,4338,College
+1,42,2,3,1870,High School
+0,41,5,3,4150,Uneducated
+0,56,2,1,4727,Graduate
+1,51,3,3,1168,Uneducated
+1,45,3,2,1853,Uneducated
+1,52,2,3,2888,High School
+0,32,1,2,1913,High School
+0,48,4,1,1732,Graduate
+0,50,2,3,3838,Uneducated
+0,54,1,4,1566,High School
+0,65,0,3,3798,Doctorate
+0,30,1,1,2558,Graduate
+0,58,3,2,4148,Post-Graduate
+0,37,3,1,2879,High School
+0,41,3,3,13719,Graduate
+0,36,2,3,2338,Uneducated
+0,54,3,2,4292,Graduate
+1,47,4,3,2572,Unknown
+0,39,5,2,4596,Uneducated
+0,54,2,4,4404,College
+0,53,3,3,4704,Graduate
+0,50,0,3,3800,Graduate
+0,26,1,4,2473,Unknown
+0,39,4,1,1925,Graduate
+0,45,2,3,1749,Doctorate
+0,62,0,1,4027,Graduate
+0,57,2,3,4897,Graduate
+0,37,3,4,2339,Uneducated
+0,26,0,1,4535,Graduate
+0,54,4,4,1543,Unknown
+0,48,2,2,3943,Graduate
+0,50,1,1,13503,Graduate
+0,43,3,3,4622,High School
+0,48,3,1,8980,Unknown
+0,49,1,2,5104,Unknown
+0,30,0,3,4729,High School
+0,58,1,1,3797,Graduate
+0,45,2,2,4255,Doctorate
+1,39,2,3,2336,Graduate
+0,55,3,2,4042,Graduate
+0,43,3,3,4387,Graduate
+0,56,1,3,1249,Graduate
+0,51,3,5,3847,Uneducated
+0,42,4,1,3157,High School
+1,41,2,3,2408,High School
+0,26,0,1,2169,High School
+0,55,2,3,1512,College
+0,37,3,3,2028,Post-Graduate
+0,47,1,1,4779,High School
+0,61,1,2,2088,Graduate
+0,54,1,2,1446,College
+0,38,2,1,3732,Graduate
+0,42,5,4,14830,High School
+0,52,2,1,1541,Uneducated
+0,45,3,3,5578,Post-Graduate
+0,53,3,2,2156,High School
+1,51,1,3,2452,Doctorate
+0,38,3,6,1758,High School
+0,50,2,3,16202,Graduate
+0,29,0,3,2222,Unknown
+0,49,1,4,3848,Unknown
+0,36,2,2,1283,College
+1,56,1,4,7625,Uneducated
+0,63,1,3,8634,High School
+0,48,5,3,4608,Graduate
+0,37,3,4,1903,Graduate
+0,36,2,3,4951,College
+0,45,4,2,4812,Graduate
+1,37,3,3,862,High School
+0,48,4,2,1727,Post-Graduate
+0,46,3,1,3528,Doctorate
+0,39,2,3,15581,Graduate
+0,38,0,1,4771,Uneducated
+0,65,1,2,3953,Doctorate
+0,44,2,2,1117,Graduate
+0,43,2,2,7916,Graduate
+1,47,3,2,2027,Doctorate
+0,47,4,2,15445,Unknown
+1,54,5,2,965,High School
+0,49,3,3,3367,Uneducated
+0,49,3,3,3645,College
+0,57,5,2,1337,High School
+0,50,3,1,1626,High School
+0,46,2,2,7998,Graduate
+1,52,0,4,2516,Doctorate
+0,42,3,3,4195,Uneducated
+0,49,2,1,7381,Uneducated
+1,52,3,3,3068,Graduate
+0,44,2,1,1088,Graduate
+0,39,1,1,3485,Uneducated
+0,51,0,2,8438,High School
+0,56,2,3,4785,Graduate
+0,41,2,3,1457,High School
+0,59,1,1,1660,Uneducated
+0,50,2,3,5483,Post-Graduate
+0,40,5,2,4371,Graduate
+0,56,3,1,4175,College
+0,45,4,3,4596,Uneducated
+0,62,0,3,4041,Unknown
+0,40,3,3,4372,Doctorate
+0,53,2,3,3095,College
+0,26,1,3,2386,High School
+1,34,3,2,9177,High School
+0,54,3,3,3618,Uneducated
+1,32,0,2,8314,Post-Graduate
+0,33,2,2,1731,Uneducated
+0,45,2,1,4385,Graduate
+1,38,4,4,899,College
+0,30,0,3,2723,Graduate
+0,46,3,3,4402,Graduate
+1,55,1,5,2578,College
+1,27,0,1,2641,High School
+0,49,4,3,4010,High School
+0,55,2,3,3807,Uneducated
+0,41,5,2,1310,Graduate
+0,43,3,3,4667,High School
+0,46,4,3,5623,Graduate
+0,52,2,2,3621,College
+1,45,1,3,1152,Graduate
+0,41,5,3,3964,Unknown
+0,42,3,2,3910,College
+0,47,3,2,1304,Graduate
+0,46,2,1,4153,Post-Graduate
+0,45,5,1,4483,Graduate
+0,39,3,1,1896,Unknown
+0,36,1,3,2602,Uneducated
+1,59,0,2,8480,High School
+1,37,2,2,7432,Unknown
+0,37,2,1,4555,High School
+1,47,2,3,2607,High School
+1,62,0,4,1898,Unknown
+0,55,2,1,14229,Uneducated
+0,28,1,3,4865,College
+0,44,4,3,14802,Uneducated
+0,40,5,2,4491,High School
+0,53,1,3,5004,Graduate
+0,40,1,3,4501,Unknown
+0,53,1,2,13803,Unknown
+0,49,3,2,4370,High School
+1,48,2,3,2536,High School
+0,43,3,1,4549,Uneducated
+0,42,2,2,3981,College
+0,36,3,5,2853,Unknown
+0,51,2,1,4124,Graduate
+0,41,2,3,3778,Uneducated
+0,52,2,6,4254,Unknown
+0,46,3,5,3043,Graduate
+0,47,2,3,1099,Graduate
+0,26,0,3,2740,Graduate
+0,48,4,3,5199,Uneducated
+0,43,4,1,7370,Uneducated
+0,49,4,4,1052,Graduate
+0,56,3,3,1794,Graduate
+0,47,3,3,1554,Post-Graduate
+1,46,3,4,1552,Graduate
+0,26,0,3,2152,Graduate
+0,44,4,1,4309,Unknown
+0,49,3,5,4944,Graduate
+0,49,4,1,4150,Graduate
+0,61,2,2,3925,High School
+0,50,3,3,4418,Doctorate
+1,65,2,2,1909,Unknown
+0,43,4,1,13339,Unknown
+0,54,5,6,4237,Unknown
+0,59,2,3,4297,Graduate
+0,56,0,1,1425,High School
+0,53,1,3,3709,Doctorate
+0,46,3,2,1362,High School
+0,55,2,1,4424,College
+0,57,2,4,4912,Post-Graduate
+0,46,3,2,4591,Graduate
+0,53,1,2,3819,Uneducated
+0,31,0,3,15495,Unknown
+0,51,2,3,4321,Doctorate
+0,35,2,2,16033,Unknown
+0,53,3,1,4505,College
+0,43,3,2,5298,High School
+1,41,5,3,2622,Post-Graduate
+0,50,1,2,1337,Unknown
+0,40,4,2,3142,Doctorate
+0,49,2,1,1265,High School
+0,40,3,2,3658,College
+0,45,2,6,1960,College
+1,34,2,2,2932,High School
+0,44,1,1,8998,Unknown
+0,54,2,3,5112,College
+0,30,0,1,4108,High School
+0,42,3,1,3730,Doctorate
+0,48,3,2,4351,Unknown
+1,54,2,4,2258,Graduate
+0,56,1,2,4498,Unknown
+0,62,0,2,1557,Unknown
+0,53,0,2,4244,High School
+0,26,0,3,2243,High School
+0,50,1,1,4488,Doctorate
+0,50,1,1,4816,Graduate
+0,45,3,2,4041,High School
+0,55,3,1,4313,Post-Graduate
+0,35,0,2,4509,Graduate
+0,45,2,1,4503,College
+0,51,2,6,4537,High School
+0,40,3,1,5244,Graduate
+0,38,2,3,2763,Unknown
+0,41,3,2,4717,College
+1,45,3,3,2534,College
+0,47,1,2,5056,Uneducated
+0,45,4,1,2560,College
+0,51,3,2,4985,High School
+0,38,1,2,4839,Graduate
+0,26,2,0,2496,High School
+0,48,3,2,4588,High School
+0,41,4,2,3776,High School
+0,51,3,3,4066,High School
+0,56,1,1,3991,Uneducated
+1,38,0,2,2283,High School
+0,57,2,2,3662,High School
+0,50,1,2,3553,Graduate
+0,61,0,3,1952,Graduate
+0,36,2,3,4957,Graduate
+0,47,4,3,4495,Uneducated
+0,45,2,4,4317,Graduate
+0,48,5,3,4135,Post-Graduate
+0,29,0,1,14723,Graduate
+0,41,1,2,4637,High School
+0,62,0,2,4423,Unknown
+0,33,2,1,4478,Doctorate
+0,44,3,2,3764,Graduate
+0,37,2,2,2660,Uneducated
+0,46,2,2,3446,Unknown
+0,51,4,2,2086,Uneducated
+0,57,0,1,3795,Unknown
+1,44,3,2,2697,College
+0,48,2,1,4049,Graduate
+1,52,1,3,2387,High School
+0,51,2,1,3776,College
+0,35,3,3,4544,High School
+0,39,3,2,1388,High School
+0,42,4,2,4921,Graduate
+0,45,3,3,1562,Unknown
+0,49,4,3,7886,High School
+0,44,2,1,1409,Doctorate
+0,36,1,1,4095,Unknown
+0,38,3,1,4712,Unknown
+0,49,1,2,4097,High School
+0,46,3,3,4699,College
+0,55,2,1,4277,Uneducated
+0,59,1,2,4556,College
+0,62,0,2,1526,Graduate
+0,52,2,2,13264,Uneducated
+0,62,1,4,1809,Uneducated
+0,52,3,2,4997,Unknown
+0,44,2,3,5108,Uneducated
+0,60,0,2,4589,Graduate
+0,55,4,3,4671,Uneducated
+0,40,2,3,4858,Post-Graduate
+0,30,2,3,13345,College
+0,34,1,1,4237,Uneducated
+0,43,5,3,3967,Uneducated
+0,30,1,2,2523,Graduate
+0,37,4,3,4446,Uneducated
+0,30,2,2,1859,Uneducated
+0,45,3,1,4462,Doctorate
+0,48,2,5,1205,High School
+0,53,1,3,1272,High School
+1,31,2,1,8102,Unknown
+0,58,4,3,13120,High School
+0,59,0,3,1776,Uneducated
+0,45,5,2,14192,Unknown
+0,38,3,3,4190,Graduate
+1,48,5,3,8753,Graduate
+1,45,3,2,2188,College
+0,51,4,4,3333,Uneducated
+0,46,1,3,4421,Uneducated
+0,47,2,2,4346,High School
+0,41,2,1,4828,Graduate
+0,46,4,2,2781,Doctorate
+0,40,1,3,1260,High School
+0,42,4,3,4416,Uneducated
+1,46,1,3,2041,Graduate
+1,44,5,3,2646,Graduate
+0,51,0,3,7854,College
+0,58,2,2,1599,Unknown
+0,48,2,3,1441,Graduate
+0,34,1,3,1930,Graduate
+0,56,2,1,4943,Graduate
+0,55,2,3,1737,High School
+0,59,0,2,4457,College
+0,57,1,2,4813,Graduate
+0,49,2,2,4269,Graduate
+0,42,2,5,4597,Uneducated
+0,33,2,1,2154,High School
+0,45,5,3,1345,Graduate
+0,38,2,1,2169,Unknown
+0,62,0,2,4755,Graduate
+0,40,3,3,4749,High School
+0,40,4,1,3655,Unknown
+0,39,1,2,4571,College
+0,42,4,2,4860,Unknown
+0,53,1,2,4167,Unknown
+0,49,2,2,4650,Uneducated
+0,51,0,2,5080,Graduate
+0,44,4,2,4258,High School
+0,47,1,3,1283,Graduate
+1,40,4,3,2203,High School
+0,38,3,3,1739,Uneducated
+0,50,3,2,1964,High School
+0,40,4,3,4400,Uneducated
+1,53,1,3,9195,Graduate
+0,44,3,2,3965,Unknown
+0,37,0,2,2002,Unknown
+0,54,2,2,5078,High School
+0,52,3,1,5034,High School
+0,51,2,3,4778,Graduate
+0,45,3,3,1649,Graduate
+0,41,4,3,4144,High School
+1,31,1,1,8286,Graduate
+0,44,4,2,7517,Graduate
+0,64,0,2,1755,High School
+0,49,4,2,2920,College
+0,45,1,2,4682,Unknown
+1,44,3,1,2440,Unknown
+0,60,0,1,13849,Graduate
+0,33,2,2,4426,High School
+1,47,1,3,2584,Doctorate
+0,43,2,3,1448,High School
+1,61,0,3,2418,High School
+0,48,3,4,14948,Graduate
+0,43,4,3,4152,College
+0,46,2,1,4434,High School
+0,53,1,2,4295,College
+0,26,0,4,2192,Uneducated
+0,42,1,3,5026,High School
+0,37,3,1,15559,Post-Graduate
+0,37,3,1,2075,High School
+0,52,1,1,1578,Graduate
+0,54,4,2,5216,Graduate
+0,38,3,2,2320,High School
+0,55,3,2,1556,Graduate
+0,48,1,2,4880,Graduate
+0,39,2,2,1715,Unknown
+0,54,2,1,1164,Uneducated
+0,41,3,3,1248,Uneducated
+0,34,3,1,4794,Graduate
+0,44,4,2,3939,Doctorate
+0,40,3,2,8443,High School
+0,41,3,2,8000,Graduate
+0,52,2,3,4569,Graduate
+0,41,2,2,13854,High School
+0,51,2,3,3988,High School
+0,52,3,3,12841,Unknown
+0,55,2,2,4078,Graduate
+1,41,4,3,2414,Graduate
+0,52,3,3,4223,Uneducated
+0,30,1,2,16423,High School
+1,50,2,1,4800,Graduate
+0,55,2,1,3495,Graduate
+1,39,3,3,2466,Uneducated
+0,37,3,2,3676,Unknown
+0,46,4,2,3946,Unknown
+0,37,3,2,2555,Uneducated
+0,41,5,2,3839,Unknown
+1,51,4,3,2584,High School
+0,37,2,2,2927,High School
+0,51,2,2,13534,Unknown
+0,58,4,3,1754,Graduate
+0,45,2,2,3342,Unknown
+0,45,2,2,4450,Post-Graduate
+0,41,3,2,6932,High School
+0,53,1,3,7422,High School
+1,30,0,1,9242,Uneducated
+1,45,3,3,1918,College
+0,50,3,1,4037,Uneducated
+0,31,1,3,2498,Graduate
+1,34,2,3,9183,High School
+0,48,3,2,3927,Uneducated
+1,50,2,2,6100,Unknown
+0,49,4,3,4787,Graduate
+0,40,5,1,1539,Graduate
+0,52,4,3,3904,Unknown
+0,35,2,2,1859,High School
+0,42,3,3,4420,Graduate
+0,50,1,2,4491,College
+0,34,1,3,1703,Graduate
+1,40,3,4,2131,Post-Graduate
+1,41,3,3,2105,Graduate
+0,51,2,2,3060,Unknown
+1,43,2,3,2219,Uneducated
+0,60,0,3,4939,Doctorate
+0,50,2,3,4770,Uneducated
+0,51,2,1,7558,High School
+1,52,3,3,2554,Graduate
+1,47,3,3,1687,Unknown
+0,59,1,2,13062,Unknown
+0,37,2,2,4444,High School
+1,59,1,2,1792,Graduate
+0,42,3,3,4477,High School
+1,43,3,2,1533,Unknown
+0,45,3,2,4293,Graduate
+0,53,2,1,1573,Uneducated
+1,58,4,1,1060,High School
+0,60,1,3,4449,Graduate
+0,51,2,3,3435,Doctorate
+0,45,5,3,4504,Graduate
+1,51,2,3,2167,Doctorate
+0,51,4,4,5019,Uneducated
+0,63,0,4,3974,College
+1,44,3,4,2789,Unknown
+0,45,4,3,3317,Graduate
+0,43,3,3,4774,Uneducated
+0,40,3,1,15925,High School
+1,47,2,2,2176,College
+0,51,0,3,3607,High School
+1,43,3,2,891,Unknown
+0,39,1,3,2315,Graduate
+0,52,2,2,4102,Post-Graduate
+0,43,3,1,4024,Graduate
+0,59,1,2,4833,Graduate
+0,50,1,5,16019,High School
+0,42,3,1,1154,Uneducated
+0,39,1,3,4452,Graduate
+0,32,2,2,13785,High School
+0,61,1,3,3560,Graduate
+0,42,4,2,1395,Graduate
+0,57,2,2,14401,Doctorate
+0,40,1,2,7919,Unknown
+0,44,4,1,4176,College
+0,47,3,2,4535,Graduate
+0,49,1,3,4251,High School
+0,53,3,1,5221,Graduate
+1,45,3,5,2611,Unknown
+0,49,2,2,4098,Uneducated
+0,50,4,2,5130,Graduate
+0,60,0,5,4210,High School
+0,38,3,4,1801,High School
+0,56,2,1,4318,Doctorate
+0,48,4,3,4246,Uneducated
+0,35,2,3,2423,Uneducated
+0,48,5,1,4030,High School
+0,47,3,3,1314,Post-Graduate
+0,43,2,2,4976,Graduate
+1,49,2,3,1838,Unknown
+0,34,4,2,1524,Unknown
+0,50,1,3,3828,Graduate
+0,37,2,2,7946,High School
+0,62,1,1,4525,Unknown
+1,59,1,2,724,Unknown
+0,47,5,2,4427,Uneducated
+0,52,2,2,4664,High School
+0,54,3,3,1170,Post-Graduate
+0,43,5,2,4317,High School
+0,55,3,1,4755,High School
+0,37,1,3,2701,High School
+0,55,1,2,2489,College
+0,48,5,3,4100,Post-Graduate
+0,47,2,1,7724,Uneducated
+0,51,1,2,4841,Graduate
+0,57,2,3,1470,Unknown
+0,49,1,5,3637,Post-Graduate
+1,48,2,3,4520,College
+0,39,1,1,1532,Graduate
+0,47,3,1,8316,College
+0,41,2,3,4487,Graduate
+0,42,4,3,4038,Graduate
+0,53,3,2,4030,Graduate
+0,53,1,1,4697,Unknown
+0,43,2,3,4640,High School
+0,26,1,3,2510,Graduate
+0,47,3,2,3609,Unknown
+0,47,3,1,3492,High School
+0,41,5,2,4426,Unknown
+0,42,3,2,4014,Uneducated
+0,45,3,1,4478,High School
+0,34,3,1,2664,High School
+0,58,1,3,4399,Doctorate
+0,40,3,4,3331,Graduate
+0,56,2,1,1281,High School
+0,52,2,3,4408,Graduate
+0,26,0,3,2088,Post-Graduate
+0,62,0,1,1582,Unknown
+0,43,2,2,4521,High School
+1,49,2,3,5366,High School
+1,55,3,3,1976,Graduate
+0,45,2,2,4930,Uneducated
+0,36,3,3,2300,Uneducated
+0,60,1,3,4328,Uneducated
+1,40,2,2,8038,Uneducated
+0,52,2,3,14533,High School
+0,50,2,3,1825,Graduate
+0,44,4,2,5024,Graduate
+1,50,1,3,2497,Unknown
+1,44,4,4,1558,Graduate
+0,39,1,1,4809,Graduate
+0,47,4,6,3804,Post-Graduate
+0,33,3,1,3444,Unknown
+1,61,0,3,1958,Uneducated
+1,60,2,3,1628,High School
+0,55,3,2,2803,Uneducated
+1,56,4,3,2477,Graduate
+0,59,2,3,1580,High School
+0,43,2,3,4054,Post-Graduate
+0,27,0,3,13563,Uneducated
+0,45,4,2,2058,Uneducated
+1,57,3,4,2705,Graduate
+0,39,0,1,4256,Graduate
+0,55,3,2,1782,Post-Graduate
+1,55,3,3,2503,Graduate
+0,49,4,2,3503,Unknown
+0,44,2,3,4445,High School
+0,37,2,2,3840,High School
+1,56,1,3,660,College
+0,49,1,3,14037,Graduate
+0,42,3,3,3523,Unknown
+0,46,4,1,3880,College
+0,44,3,3,3851,High School
+1,38,3,3,2142,High School
+1,62,0,3,906,High School
+0,55,2,2,4078,Uneducated
+0,46,3,1,4878,High School
+0,58,2,2,1612,High School
+0,44,5,1,1367,Graduate
+0,29,1,3,2743,College
+0,56,2,2,14901,High School
+0,43,3,4,1980,Graduate
+0,49,2,2,15013,Unknown
+0,51,3,3,1931,Post-Graduate
+0,40,3,3,3756,Graduate
+0,50,3,3,4172,High School
+0,48,3,3,4520,College
+0,42,1,1,7485,Post-Graduate
+0,42,3,2,13845,High School
+1,34,2,2,2308,Graduate
+0,46,3,2,1381,Graduate
+0,54,2,3,4961,High School
+0,41,4,3,4813,Uneducated
+0,48,3,3,15124,Uneducated
+0,43,2,2,1911,College
+0,47,3,5,4342,Post-Graduate
+0,49,3,3,4889,Unknown
+0,47,2,2,3415,High School
+0,45,4,1,4405,College
+0,41,1,3,5466,Graduate
+1,47,5,4,1575,High School
+0,59,1,1,4911,Graduate
+1,48,4,3,7681,Graduate
+0,54,2,2,2028,College
+1,49,0,4,2715,Doctorate
+0,49,3,1,3421,Uneducated
+0,64,0,3,4065,College
+0,40,3,1,816,Uneducated
+0,35,4,2,2464,Uneducated
+0,34,2,2,4905,College
+0,44,3,2,4071,High School
+0,63,0,4,3982,Doctorate
+0,48,2,6,3445,High School
+0,51,2,2,4119,Unknown
+0,44,2,1,4548,High School
+0,53,1,2,5104,College
+0,41,3,3,4087,Graduate
+0,49,5,1,1826,Unknown
+0,57,1,1,1277,Graduate
+0,51,3,1,4099,Unknown
+0,48,4,2,4422,Doctorate
+0,46,1,3,1557,Unknown
+1,45,4,2,2153,Graduate
+1,55,2,3,5838,Graduate
+0,45,4,1,4141,Unknown
+1,35,5,2,2500,High School
+1,41,3,2,5603,Uneducated
+0,49,1,2,4109,High School
+0,47,3,3,4758,Unknown
+0,57,4,6,4826,High School
+0,41,1,2,1576,Graduate
+0,40,1,2,4064,High School
+0,42,3,2,3889,Graduate
+0,44,2,3,4248,Doctorate
+1,58,0,4,2341,High School
+0,47,2,4,3073,Unknown
+1,47,3,3,4739,College
+0,37,2,1,2405,Graduate
+1,43,3,3,2086,High School
+1,45,2,5,709,Graduate
+0,36,3,3,2143,Uneducated
+1,55,1,2,2400,Unknown
+0,40,4,3,4568,College
+0,50,2,2,4128,College
+0,52,3,3,5035,Unknown
+0,48,1,4,4532,High School
+0,53,2,3,4428,College
+0,50,1,2,1567,Unknown
+0,34,3,3,2171,High School
+0,53,1,2,1439,College
+1,57,3,5,2607,High School
+0,53,2,1,3855,Unknown
+0,41,3,3,2036,Graduate
+0,46,1,2,2773,Graduate
+0,50,2,2,4946,College
+0,43,3,2,3246,Graduate
+0,33,2,3,2883,Graduate
+0,54,1,3,1339,Graduate
+0,50,2,2,4957,High School
+0,43,2,2,1215,Uneducated
+0,45,3,2,3973,Graduate
+0,46,3,3,4697,College
+0,35,3,1,2568,Graduate
+1,41,3,3,3607,Doctorate
+0,49,3,3,3523,Graduate
+0,45,2,3,3549,Graduate
+0,47,5,3,17093,High School
+0,48,3,2,4592,Unknown
+0,43,4,2,4071,Graduate
+0,42,1,3,1065,Doctorate
+0,57,1,3,1827,Graduate
+0,40,3,3,14748,Uneducated
+0,48,2,3,4777,College
+0,48,3,3,1191,College
+1,43,3,3,9045,Uneducated
+0,44,4,1,1468,Graduate
+0,45,2,3,1338,Uneducated
+0,51,1,3,4351,Graduate
+0,32,1,3,16236,Graduate
+0,37,2,2,1629,Graduate
+0,48,4,1,3756,High School
+0,46,3,3,1257,Graduate
+0,38,4,2,1764,Graduate
+1,52,4,4,8127,Uneducated
+0,53,3,1,4694,College
+1,46,3,3,2135,High School
+0,46,2,3,4347,High School
+1,57,3,3,2379,Unknown
+1,31,1,2,2126,Graduate
+0,51,2,1,8652,Graduate
+1,42,2,3,2418,Graduate
+0,59,1,3,4208,High School
+0,41,5,1,15423,High School
+0,51,3,2,4275,College
+0,51,3,1,4469,Graduate
+0,41,2,3,994,High School
+1,54,3,3,1796,Graduate
+0,59,2,1,3964,High School
+0,40,3,1,7479,Doctorate
+1,47,3,3,1913,Graduate
+1,37,3,4,563,College
+1,34,4,2,3257,Uneducated
+0,42,4,6,1562,Graduate
+0,50,2,1,3183,Graduate
+1,48,2,2,1618,Doctorate
+0,32,0,1,13630,High School
+1,47,4,3,10468,Graduate
+1,39,2,2,2437,Graduate
+1,49,3,2,3081,Graduate
+0,54,3,2,1943,Graduate
+0,48,3,2,4604,High School
+0,39,2,3,13377,Uneducated
+0,49,4,3,3825,Graduate
+0,47,3,2,3847,High School
+1,41,4,3,9134,Graduate
+1,54,2,3,2310,Graduate
+1,34,2,2,2768,Graduate
+0,46,1,3,4956,Graduate
+0,37,3,1,5076,College
+0,40,3,3,1665,Post-Graduate
+0,32,1,1,2395,High School
+0,52,4,1,4279,Uneducated
+0,42,3,1,5228,Uneducated
+0,50,1,2,3651,College
+0,38,3,3,1519,Unknown
+0,56,3,2,1158,College
+0,41,4,3,13969,Post-Graduate
+0,53,1,2,1548,Unknown
+1,45,4,2,2240,High School
+0,40,3,3,4583,Graduate
+0,49,2,3,14256,Uneducated
+0,50,4,3,4946,College
+0,38,2,3,1655,Graduate
+0,55,1,5,4100,Graduate
+1,48,3,3,2450,Doctorate
+0,48,3,1,4827,Post-Graduate
+0,39,2,3,1338,Post-Graduate
+0,37,1,5,3148,High School
+0,47,5,1,17038,Post-Graduate
+0,53,5,1,1453,Unknown
+0,50,2,1,4613,Post-Graduate
+0,56,1,2,4876,College
+0,55,2,1,4456,Unknown
+0,58,2,2,3525,Unknown
+0,52,1,1,4087,Unknown
+0,58,1,3,1208,Unknown
+0,29,0,3,12510,High School
+0,49,4,1,7136,Graduate
+1,49,2,3,8636,Unknown
+0,43,4,3,965,Unknown
+0,48,3,1,4128,Unknown
+0,43,4,1,4712,High School
+0,32,1,1,4878,Graduate
+1,46,4,2,2595,Doctorate
+0,49,3,1,3863,Graduate
+0,58,2,1,1258,Graduate
+0,40,3,4,4107,Uneducated
+0,29,2,1,2536,Uneducated
+0,45,3,2,5046,High School
+0,44,1,2,3770,High School
+0,33,1,2,1888,Graduate
+0,57,3,1,4134,College
+0,39,2,2,7845,Unknown
+0,53,3,2,1197,Uneducated
+0,37,3,2,2790,Graduate
+0,41,4,2,4077,Uneducated
+0,38,3,1,5616,High School
+0,47,3,3,3503,High School
+1,57,2,3,7842,Post-Graduate
+1,48,2,3,2090,High School
+0,51,0,2,5102,Doctorate
+0,41,2,3,4101,Graduate
+1,61,0,3,949,Graduate
+1,41,4,3,1786,Graduate
+1,49,3,4,1477,Uneducated
+0,27,0,1,14330,Graduate
+0,44,4,2,7885,Unknown
+0,44,2,1,4317,High School
+0,46,3,2,2038,Graduate
+0,40,2,4,4125,Graduate
+0,53,3,3,1461,Uneducated
+0,40,3,3,5149,College
+0,30,0,1,3294,Graduate
+0,56,2,1,4493,College
+0,51,1,2,3158,Graduate
+0,49,3,3,4631,Uneducated
+0,51,4,3,8296,Graduate
+0,56,3,3,4269,Graduate
+0,48,3,5,1483,College
+0,45,4,2,2168,Uneducated
+0,52,2,3,3470,Uneducated
+0,61,0,2,4069,Unknown
+0,42,1,2,15998,College
+0,43,5,3,4321,Uneducated
+1,40,3,3,1112,College
+0,51,2,3,3856,Unknown
+0,43,2,6,4435,Graduate
+0,53,1,3,4159,Graduate
+0,41,0,2,14994,College
+1,58,0,2,1844,Uneducated
+0,53,1,2,4520,High School
+1,41,2,3,1084,Uneducated
+0,39,3,2,4493,College
+0,50,1,3,1837,Graduate
+0,64,0,2,3593,Graduate
+0,29,1,3,1757,Graduate
+1,43,1,3,2279,Uneducated
+0,58,2,2,4744,High School
+0,52,4,1,4650,Uneducated
+0,38,2,3,1472,Uneducated
+0,41,3,6,4682,Unknown
+0,45,4,3,4686,College
+0,53,1,1,4198,Post-Graduate
+0,49,1,1,3651,Graduate
+0,54,1,3,4216,High School
+0,32,1,1,2413,High School
+0,38,3,3,4643,Unknown
+0,33,1,3,3319,Uneducated
+0,43,3,1,1463,Graduate
+0,49,4,1,4337,Uneducated
+0,39,0,2,3592,Doctorate
+1,34,1,2,2157,Post-Graduate
+0,50,4,1,4962,Unknown
+0,56,2,2,8066,Uneducated
+0,51,3,2,4464,Unknown
+1,50,1,3,9045,Graduate
+0,51,3,3,3531,Uneducated
+0,52,3,5,4271,Graduate
+0,41,2,3,1536,Uneducated
+0,49,1,2,4274,Graduate
+1,54,1,0,2465,Uneducated
+0,37,2,2,14540,Graduate
+0,54,2,3,1456,Unknown
+1,40,2,3,2539,High School
+0,42,4,1,16622,High School
+0,43,4,3,4007,Graduate
+0,61,0,3,3964,Graduate
+0,51,3,3,13810,High School
+1,51,2,3,1939,Uneducated
+1,47,4,3,2098,Graduate
+0,48,2,2,15054,Graduate
+0,65,0,0,4427,Graduate
+0,38,3,2,1847,High School
+0,47,1,2,3115,High School
+0,48,4,3,3405,Graduate
+0,57,3,3,2126,High School
+0,54,4,4,4824,Graduate
+0,36,2,3,5471,College
+0,43,2,1,4538,Unknown
+0,53,3,1,1359,High School
+0,45,2,1,4283,Graduate
+1,57,3,0,1999,Graduate
+0,41,3,3,7729,Graduate
+0,50,3,2,3913,Graduate
+0,55,2,3,3591,Post-Graduate
+0,47,2,2,1563,High School
+1,40,3,3,2857,Graduate
+0,32,0,2,2456,Post-Graduate
+0,55,1,2,4615,Uneducated
+0,51,1,1,4399,Uneducated
+0,49,3,3,4960,Unknown
+0,41,2,3,3899,Graduate
+1,55,2,4,886,Graduate
+0,35,1,2,4432,Unknown
+0,40,4,4,4680,Graduate
+0,48,4,2,8695,Graduate
+0,41,1,2,4506,High School
+0,48,3,1,1391,College
+0,46,2,2,3917,Graduate
+0,53,1,2,2118,Uneducated
+0,42,2,3,3627,Uneducated
+1,54,1,4,2532,Graduate
+0,65,1,1,4208,High School
+0,48,2,2,14802,Graduate
+0,55,2,3,3761,Graduate
+0,47,3,3,4165,Doctorate
+0,44,1,3,7527,Unknown
+0,34,3,3,2257,College
+0,57,3,1,4402,Doctorate
+0,45,5,2,3458,College
+0,48,3,1,4906,High School
+0,39,3,3,4199,High School
+0,53,3,1,3938,High School
+0,52,3,3,3532,High School
+1,47,2,3,2315,Graduate
+1,50,3,2,2351,Post-Graduate
+0,39,3,1,3178,College
+0,51,3,3,4798,Graduate
+1,63,0,4,2445,Doctorate
+0,56,3,3,3441,High School
+1,52,1,3,8585,Unknown
+0,46,3,2,3393,Graduate
+0,54,3,3,2631,Graduate
+0,51,3,3,4220,College
+0,26,1,2,2678,Uneducated
+0,58,5,3,4784,Unknown
+0,53,2,2,1289,High School
+0,28,0,1,2947,Graduate
+0,58,4,3,3677,College
+0,55,0,3,3882,Uneducated
+0,50,2,2,7768,High School
+0,49,1,3,4806,High School
+0,52,1,2,3603,Graduate
+0,50,2,3,3836,Uneducated
+1,44,5,2,1970,Graduate
+1,31,0,2,6639,Post-Graduate
+0,53,3,2,1774,College
+0,48,3,1,4187,Graduate
+0,46,4,3,5329,Graduate
+0,41,2,5,4391,High School
+0,47,2,3,4980,College
+0,43,2,2,2659,High School
+0,34,2,3,4837,Post-Graduate
+0,38,2,1,1741,High School
+0,41,3,3,12489,Graduate
+0,46,3,3,3838,High School
+0,37,3,3,2076,Graduate
+0,43,3,1,4615,Graduate
+0,59,1,3,1152,College
+0,49,3,3,4937,Graduate
+0,40,4,5,3453,Graduate
+0,56,2,2,13956,Graduate
+0,34,1,1,3339,College
+0,50,4,2,1814,Uneducated
+0,48,3,2,1733,College
+0,44,3,3,3060,Graduate
+0,46,4,2,4734,Graduate
+0,43,4,3,3646,High School
+0,30,0,1,1925,High School
+0,64,1,1,3435,Graduate
+0,55,1,3,4644,Post-Graduate
+1,62,1,1,747,High School
+0,49,3,2,13992,Graduate
+0,54,1,2,4607,College
+0,51,1,2,3812,Doctorate
+1,49,1,3,2030,Uneducated
+0,50,4,2,14351,Unknown
+0,54,3,4,4280,College
+0,45,2,1,3692,College
+0,46,2,2,4503,Graduate
+1,31,1,2,2614,Uneducated
+0,46,2,1,7950,Graduate
+0,40,2,1,4344,High School
+0,37,3,2,7899,High School
+0,39,1,3,4080,Graduate
+0,44,3,2,3416,Uneducated
+0,37,4,1,1804,Uneducated
+0,49,2,3,2872,Graduate
+0,52,1,2,4991,Uneducated
+0,54,2,1,3328,Graduate
+0,42,4,2,4544,Graduate
+0,45,2,3,3244,Graduate
+0,34,1,2,3948,Graduate
+0,41,2,1,1555,Post-Graduate
+0,30,0,2,14999,College
+0,32,2,3,14334,Unknown
+0,65,0,3,3913,High School
+0,38,2,3,1600,High School
+1,44,2,3,2078,College
+0,52,0,2,3829,Unknown
+0,37,4,1,14308,Uneducated
+0,42,4,2,7836,Uneducated
+1,55,2,2,1883,College
+0,46,3,1,3139,High School
+0,43,4,1,3924,Unknown
+0,39,3,6,1836,Unknown
+1,48,4,3,2431,Unknown
+0,45,5,1,4067,Doctorate
+0,47,4,3,4385,Graduate
+0,38,3,1,2520,Graduate
+0,41,2,2,3680,Graduate
+0,53,3,1,1267,Doctorate
+0,53,3,3,1333,Graduate
+0,45,3,3,4971,High School
+0,53,3,2,4960,Post-Graduate
+0,40,2,3,4806,High School
+0,63,2,2,1606,Graduate
+1,50,3,3,2447,High School
+1,44,1,2,2104,Graduate
+1,53,3,3,2269,High School
+0,42,4,1,4678,Graduate
+0,40,3,1,1482,Unknown
+0,53,4,1,4472,High School
